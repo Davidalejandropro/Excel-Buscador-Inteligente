@@ -1,0 +1,1001 @@
+﻿Código,Nombre,Categoría,Marca,Precio (COP),Stock,Proveedor
+PROD-0001,Panadería 10,Panadería,Colanta,7100.0,34,Comercializadora Andina
+PROD-0002,Lácteos 27,Lácteos,Ramo,14900.0,63,Distribuidora Nacional
+PROD-0003,Dulces 20,Dulces,Diana,9900.0,421,Distribuidora Nacional
+PROD-0004,Bebidas 26,Bebidas,Coca-Cola,42200.0,481,Supermercados S.A.
+PROD-0005,Bebidas 48,Bebidas,Familia,13100.0,283,Alimentos y Bebidas Ltda.
+PROD-0006,Dulces 48,Dulces,Coca-Cola,35900.0,231,Supermercados S.A.
+PROD-0007,Limpieza 41,Limpieza,Alpina,43500.0,443,Distribuidora Nacional
+PROD-0008,Verduras 25,Verduras,Postobón,23000.0,462,Distribuidora Nacional
+PROD-0009,Carnes 16,Carnes,Coca-Cola,22700.0,314,Distribuidora Nacional
+PROD-0010,Limpieza 27,Limpieza,Diana,33400.0,258,Alimentos y Bebidas Ltda.
+PROD-0011,Bebidas 46,Bebidas,Familia,24700.0,17,Supermercados S.A.
+PROD-0012,Carnes 27,Carnes,Colanta,3800.0,176,Alimentos y Bebidas Ltda.
+PROD-0013,Frutas 26,Frutas,Ramo,16100.0,375,Importadora Global
+PROD-0014,Cuidado Personal 26,Cuidado Personal,Nestlé,47700.0,23,Supermercados S.A.
+PROD-0015,Dulces 8,Dulces,Postobón,34200.0,167,Alimentos y Bebidas Ltda.
+PROD-0016,Panadería 41,Panadería,Coca-Cola,17200.0,71,Supermercados S.A.
+PROD-0017,Lácteos 15,Lácteos,Bimbo,7200.0,316,Importadora Global
+PROD-0018,Frutas 30,Frutas,Postobón,5200.0,434,Comercializadora Andina
+PROD-0019,Carnes 2,Carnes,P&G,46000.0,39,Alimentos y Bebidas Ltda.
+PROD-0020,Verduras 32,Verduras,Alpina,31400.0,330,Importadora Global
+PROD-0021,Cuidado Personal 13,Cuidado Personal,Ramo,18100.0,355,Alimentos y Bebidas Ltda.
+PROD-0022,Lácteos 9,Lácteos,Coca-Cola,39000.0,153,Distribuidora Nacional
+PROD-0023,Abarrotes 2,Abarrotes,Diana,16500.0,401,Importadora Global
+PROD-0024,Cuidado Personal 37,Cuidado Personal,Alpina,24000.0,194,Supermercados S.A.
+PROD-0025,Panadería 27,Panadería,Coca-Cola,32300.0,283,Importadora Global
+PROD-0026,Bebidas 41,Bebidas,Colanta,16300.0,493,Alimentos y Bebidas Ltda.
+PROD-0027,Bebidas 15,Bebidas,Colanta,40900.0,261,Supermercados S.A.
+PROD-0028,Dulces 25,Dulces,Alpina,38900.0,44,Distribuidora Nacional
+PROD-0029,Cuidado Personal 10,Cuidado Personal,Nestlé,39400.0,483,Distribuidora Nacional
+PROD-0030,Dulces 24,Dulces,Nestlé,3300.0,102,Supermercados S.A.
+PROD-0031,Cuidado Personal 18,Cuidado Personal,Coca-Cola,3900.0,47,Importadora Global
+PROD-0032,Limpieza 13,Limpieza,Bimbo,24300.0,284,Supermercados S.A.
+PROD-0033,Bebidas 27,Bebidas,Colanta,49100.0,278,Distribuidora Nacional
+PROD-0034,Frutas 6,Frutas,Diana,12900.0,393,Comercializadora Andina
+PROD-0035,Cuidado Personal 12,Cuidado Personal,Postobón,2200.0,238,Distribuidora Nacional
+PROD-0036,Carnes 17,Carnes,Bimbo,26400.0,404,Supermercados S.A.
+PROD-0037,Panadería 25,Panadería,Colanta,16200.0,143,Distribuidora Nacional
+PROD-0038,Carnes 50,Carnes,Familia,3700.0,274,Distribuidora Nacional
+PROD-0039,Carnes 42,Carnes,Postobón,24500.0,10,Supermercados S.A.
+PROD-0040,Limpieza 34,Limpieza,P&G,49000.0,478,Distribuidora Nacional
+PROD-0041,Limpieza 29,Limpieza,Bimbo,27600.0,469,Comercializadora Andina
+PROD-0042,Panadería 21,Panadería,Nestlé,43600.0,421,Alimentos y Bebidas Ltda.
+PROD-0043,Lácteos 19,Lácteos,P&G,15200.0,452,Distribuidora Nacional
+PROD-0044,Bebidas 4,Bebidas,P&G,24000.0,293,Supermercados S.A.
+PROD-0045,Carnes 4,Carnes,Diana,35300.0,88,Alimentos y Bebidas Ltda.
+PROD-0046,Bebidas 43,Bebidas,Alpina,6600.0,118,Distribuidora Nacional
+PROD-0047,Lácteos 32,Lácteos,Postobón,28000.0,382,Supermercados S.A.
+PROD-0048,Lácteos 12,Lácteos,P&G,38400.0,156,Distribuidora Nacional
+PROD-0049,Panadería 24,Panadería,Coca-Cola,31000.0,369,Comercializadora Andina
+PROD-0050,Carnes 47,Carnes,P&G,38300.0,48,Distribuidora Nacional
+PROD-0051,Abarrotes 43,Abarrotes,Postobón,3500.0,470,Alimentos y Bebidas Ltda.
+PROD-0052,Bebidas 38,Bebidas,Diana,22400.0,66,Importadora Global
+PROD-0053,Carnes 31,Carnes,Alpina,39500.0,205,Distribuidora Nacional
+PROD-0054,Verduras 6,Verduras,P&G,46000.0,452,Comercializadora Andina
+PROD-0055,Frutas 45,Frutas,Colanta,38100.0,408,Distribuidora Nacional
+PROD-0056,Abarrotes 27,Abarrotes,P&G,19100.0,478,Distribuidora Nacional
+PROD-0057,Lácteos 11,Lácteos,Alpina,4700.0,351,Alimentos y Bebidas Ltda.
+PROD-0058,Lácteos 10,Lácteos,Colanta,26500.0,317,Importadora Global
+PROD-0059,Limpieza 13,Limpieza,Nestlé,45800.0,199,Alimentos y Bebidas Ltda.
+PROD-0060,Limpieza 1,Limpieza,P&G,20600.0,195,Alimentos y Bebidas Ltda.
+PROD-0061,Verduras 13,Verduras,Nestlé,5600.0,175,Alimentos y Bebidas Ltda.
+PROD-0062,Carnes 44,Carnes,Coca-Cola,43500.0,195,Supermercados S.A.
+PROD-0063,Dulces 17,Dulces,Alpina,35000.0,295,Comercializadora Andina
+PROD-0064,Panadería 41,Panadería,Familia,41300.0,132,Comercializadora Andina
+PROD-0065,Lácteos 21,Lácteos,P&G,35700.0,222,Distribuidora Nacional
+PROD-0066,Limpieza 48,Limpieza,Alpina,37000.0,450,Importadora Global
+PROD-0067,Cuidado Personal 49,Cuidado Personal,Nestlé,21700.0,58,Alimentos y Bebidas Ltda.
+PROD-0068,Panadería 4,Panadería,Alpina,36800.0,491,Supermercados S.A.
+PROD-0069,Verduras 8,Verduras,Alpina,4000.0,436,Comercializadora Andina
+PROD-0070,Carnes 3,Carnes,Nestlé,27200.0,121,Distribuidora Nacional
+PROD-0071,Dulces 47,Dulces,P&G,39900.0,113,Alimentos y Bebidas Ltda.
+PROD-0072,Panadería 13,Panadería,Diana,38700.0,116,Distribuidora Nacional
+PROD-0073,Dulces 6,Dulces,Nestlé,44600.0,163,Supermercados S.A.
+PROD-0074,Lácteos 11,Lácteos,Familia,21900.0,183,Supermercados S.A.
+PROD-0075,Bebidas 40,Bebidas,Colanta,31900.0,16,Importadora Global
+PROD-0076,Cuidado Personal 49,Cuidado Personal,Coca-Cola,47600.0,222,Importadora Global
+PROD-0077,Cuidado Personal 14,Cuidado Personal,Ramo,26800.0,441,Alimentos y Bebidas Ltda.
+PROD-0078,Verduras 48,Verduras,Bimbo,34700.0,423,Importadora Global
+PROD-0079,Bebidas 50,Bebidas,Colanta,27200.0,147,Alimentos y Bebidas Ltda.
+PROD-0080,Panadería 23,Panadería,Diana,3000.0,24,Comercializadora Andina
+PROD-0081,Lácteos 23,Lácteos,Ramo,40900.0,151,Alimentos y Bebidas Ltda.
+PROD-0082,Bebidas 14,Bebidas,Familia,35600.0,326,Comercializadora Andina
+PROD-0083,Abarrotes 28,Abarrotes,Colanta,49700.0,163,Comercializadora Andina
+PROD-0084,Cuidado Personal 3,Cuidado Personal,Alpina,28600.0,386,Alimentos y Bebidas Ltda.
+PROD-0085,Dulces 22,Dulces,P&G,33800.0,212,Importadora Global
+PROD-0086,Verduras 38,Verduras,Postobón,24400.0,345,Comercializadora Andina
+PROD-0087,Bebidas 7,Bebidas,Diana,6800.0,22,Distribuidora Nacional
+PROD-0088,Dulces 11,Dulces,Ramo,21000.0,409,Supermercados S.A.
+PROD-0089,Lácteos 7,Lácteos,Colanta,10600.0,241,Distribuidora Nacional
+PROD-0090,Abarrotes 14,Abarrotes,Alpina,49700.0,468,Supermercados S.A.
+PROD-0091,Frutas 1,Frutas,Postobón,42800.0,476,Importadora Global
+PROD-0092,Panadería 23,Panadería,Coca-Cola,19500.0,480,Distribuidora Nacional
+PROD-0093,Cuidado Personal 22,Cuidado Personal,Diana,13600.0,440,Alimentos y Bebidas Ltda.
+PROD-0094,Carnes 24,Carnes,Ramo,30200.0,469,Comercializadora Andina
+PROD-0095,Abarrotes 6,Abarrotes,P&G,31400.0,41,Alimentos y Bebidas Ltda.
+PROD-0096,Limpieza 3,Limpieza,Diana,44300.0,216,Alimentos y Bebidas Ltda.
+PROD-0097,Dulces 7,Dulces,Alpina,32000.0,393,Comercializadora Andina
+PROD-0098,Carnes 14,Carnes,Colanta,36500.0,39,Distribuidora Nacional
+PROD-0099,Frutas 5,Frutas,Ramo,16000.0,339,Distribuidora Nacional
+PROD-0100,Abarrotes 7,Abarrotes,P&G,21200.0,346,Comercializadora Andina
+PROD-0101,Abarrotes 4,Abarrotes,Postobón,45500.0,75,Alimentos y Bebidas Ltda.
+PROD-0102,Bebidas 42,Bebidas,Coca-Cola,37100.0,494,Alimentos y Bebidas Ltda.
+PROD-0103,Verduras 22,Verduras,Nestlé,25200.0,449,Distribuidora Nacional
+PROD-0104,Abarrotes 43,Abarrotes,P&G,27400.0,298,Alimentos y Bebidas Ltda.
+PROD-0105,Frutas 4,Frutas,Nestlé,48100.0,498,Alimentos y Bebidas Ltda.
+PROD-0106,Abarrotes 16,Abarrotes,Nestlé,45800.0,490,Supermercados S.A.
+PROD-0107,Limpieza 39,Limpieza,Postobón,35900.0,232,Distribuidora Nacional
+PROD-0108,Limpieza 31,Limpieza,Diana,43900.0,158,Supermercados S.A.
+PROD-0109,Frutas 32,Frutas,Familia,17400.0,453,Distribuidora Nacional
+PROD-0110,Dulces 27,Dulces,Ramo,19600.0,447,Supermercados S.A.
+PROD-0111,Limpieza 24,Limpieza,Familia,9800.0,304,Distribuidora Nacional
+PROD-0112,Lácteos 46,Lácteos,Diana,48900.0,121,Comercializadora Andina
+PROD-0113,Bebidas 36,Bebidas,Coca-Cola,15500.0,137,Distribuidora Nacional
+PROD-0114,Lácteos 39,Lácteos,Familia,18700.0,290,Comercializadora Andina
+PROD-0115,Lácteos 13,Lácteos,Diana,43400.0,55,Alimentos y Bebidas Ltda.
+PROD-0116,Cuidado Personal 31,Cuidado Personal,Alpina,11300.0,56,Alimentos y Bebidas Ltda.
+PROD-0117,Panadería 21,Panadería,Colanta,39100.0,172,Supermercados S.A.
+PROD-0118,Panadería 11,Panadería,Colanta,32400.0,248,Importadora Global
+PROD-0119,Verduras 25,Verduras,Familia,32400.0,240,Importadora Global
+PROD-0120,Abarrotes 20,Abarrotes,Nestlé,41800.0,215,Alimentos y Bebidas Ltda.
+PROD-0121,Bebidas 44,Bebidas,Alpina,23800.0,497,Comercializadora Andina
+PROD-0122,Limpieza 28,Limpieza,Postobón,22100.0,135,Importadora Global
+PROD-0123,Dulces 31,Dulces,Familia,44300.0,430,Importadora Global
+PROD-0124,Panadería 44,Panadería,Ramo,10600.0,373,Supermercados S.A.
+PROD-0125,Limpieza 22,Limpieza,Nestlé,25800.0,467,Alimentos y Bebidas Ltda.
+PROD-0126,Panadería 9,Panadería,P&G,43700.0,162,Importadora Global
+PROD-0127,Dulces 30,Dulces,Diana,36700.0,155,Importadora Global
+PROD-0128,Carnes 2,Carnes,Postobón,9200.0,447,Supermercados S.A.
+PROD-0129,Dulces 32,Dulces,Ramo,45200.0,464,Supermercados S.A.
+PROD-0130,Cuidado Personal 28,Cuidado Personal,Bimbo,48800.0,322,Comercializadora Andina
+PROD-0131,Carnes 13,Carnes,Postobón,20000.0,409,Comercializadora Andina
+PROD-0132,Cuidado Personal 21,Cuidado Personal,Familia,19800.0,125,Supermercados S.A.
+PROD-0133,Carnes 26,Carnes,Bimbo,29700.0,180,Importadora Global
+PROD-0134,Bebidas 36,Bebidas,Postobón,20600.0,79,Importadora Global
+PROD-0135,Panadería 37,Panadería,Coca-Cola,38400.0,440,Importadora Global
+PROD-0136,Limpieza 37,Limpieza,Postobón,23600.0,25,Supermercados S.A.
+PROD-0137,Cuidado Personal 29,Cuidado Personal,Familia,15100.0,282,Comercializadora Andina
+PROD-0138,Lácteos 39,Lácteos,Coca-Cola,2600.0,68,Alimentos y Bebidas Ltda.
+PROD-0139,Carnes 13,Carnes,Ramo,37600.0,307,Comercializadora Andina
+PROD-0140,Dulces 23,Dulces,Nestlé,31700.0,294,Supermercados S.A.
+PROD-0141,Panadería 22,Panadería,Coca-Cola,42900.0,498,Alimentos y Bebidas Ltda.
+PROD-0142,Verduras 8,Verduras,Alpina,44300.0,218,Comercializadora Andina
+PROD-0143,Carnes 45,Carnes,Familia,29400.0,310,Alimentos y Bebidas Ltda.
+PROD-0144,Frutas 22,Frutas,Alpina,29800.0,247,Comercializadora Andina
+PROD-0145,Lácteos 15,Lácteos,Familia,34900.0,47,Alimentos y Bebidas Ltda.
+PROD-0146,Frutas 19,Frutas,Postobón,30700.0,412,Alimentos y Bebidas Ltda.
+PROD-0147,Abarrotes 44,Abarrotes,Coca-Cola,4600.0,383,Supermercados S.A.
+PROD-0148,Cuidado Personal 11,Cuidado Personal,Postobón,39300.0,294,Alimentos y Bebidas Ltda.
+PROD-0149,Cuidado Personal 44,Cuidado Personal,Colanta,3300.0,82,Alimentos y Bebidas Ltda.
+PROD-0150,Carnes 50,Carnes,Ramo,21400.0,360,Comercializadora Andina
+PROD-0151,Frutas 45,Frutas,Nestlé,9600.0,381,Comercializadora Andina
+PROD-0152,Frutas 39,Frutas,Nestlé,24500.0,478,Importadora Global
+PROD-0153,Abarrotes 47,Abarrotes,P&G,12300.0,355,Distribuidora Nacional
+PROD-0154,Bebidas 17,Bebidas,Bimbo,46000.0,152,Comercializadora Andina
+PROD-0155,Verduras 32,Verduras,Nestlé,24500.0,242,Supermercados S.A.
+PROD-0156,Frutas 38,Frutas,P&G,8100.0,53,Supermercados S.A.
+PROD-0157,Bebidas 35,Bebidas,Bimbo,8600.0,261,Alimentos y Bebidas Ltda.
+PROD-0158,Cuidado Personal 49,Cuidado Personal,Diana,48800.0,208,Importadora Global
+PROD-0159,Abarrotes 44,Abarrotes,Nestlé,44600.0,317,Comercializadora Andina
+PROD-0160,Carnes 36,Carnes,Alpina,46000.0,447,Distribuidora Nacional
+PROD-0161,Limpieza 48,Limpieza,Postobón,7000.0,188,Importadora Global
+PROD-0162,Limpieza 28,Limpieza,Bimbo,48000.0,422,Alimentos y Bebidas Ltda.
+PROD-0163,Lácteos 49,Lácteos,P&G,41200.0,92,Alimentos y Bebidas Ltda.
+PROD-0164,Verduras 38,Verduras,Coca-Cola,11000.0,58,Alimentos y Bebidas Ltda.
+PROD-0165,Cuidado Personal 35,Cuidado Personal,Alpina,10100.0,246,Comercializadora Andina
+PROD-0166,Abarrotes 25,Abarrotes,P&G,12200.0,488,Importadora Global
+PROD-0167,Cuidado Personal 30,Cuidado Personal,Coca-Cola,28600.0,232,Importadora Global
+PROD-0168,Limpieza 44,Limpieza,Coca-Cola,39800.0,73,Supermercados S.A.
+PROD-0169,Carnes 41,Carnes,Ramo,35000.0,55,Supermercados S.A.
+PROD-0170,Frutas 48,Frutas,Ramo,18400.0,111,Importadora Global
+PROD-0171,Bebidas 16,Bebidas,Ramo,15700.0,225,Alimentos y Bebidas Ltda.
+PROD-0172,Limpieza 49,Limpieza,Colanta,34700.0,459,Alimentos y Bebidas Ltda.
+PROD-0173,Dulces 13,Dulces,Bimbo,21800.0,337,Importadora Global
+PROD-0174,Bebidas 31,Bebidas,Bimbo,26900.0,366,Alimentos y Bebidas Ltda.
+PROD-0175,Lácteos 9,Lácteos,Ramo,42400.0,351,Comercializadora Andina
+PROD-0176,Abarrotes 39,Abarrotes,Familia,29200.0,347,Alimentos y Bebidas Ltda.
+PROD-0177,Bebidas 24,Bebidas,Colanta,31200.0,452,Supermercados S.A.
+PROD-0178,Panadería 3,Panadería,Nestlé,10100.0,496,Supermercados S.A.
+PROD-0179,Abarrotes 27,Abarrotes,Bimbo,6600.0,272,Alimentos y Bebidas Ltda.
+PROD-0180,Verduras 12,Verduras,Coca-Cola,24000.0,494,Supermercados S.A.
+PROD-0181,Abarrotes 11,Abarrotes,P&G,39000.0,119,Importadora Global
+PROD-0182,Bebidas 34,Bebidas,P&G,8400.0,108,Supermercados S.A.
+PROD-0183,Abarrotes 15,Abarrotes,Coca-Cola,26100.0,460,Alimentos y Bebidas Ltda.
+PROD-0184,Abarrotes 16,Abarrotes,Nestlé,15100.0,314,Distribuidora Nacional
+PROD-0185,Abarrotes 27,Abarrotes,Diana,19600.0,96,Alimentos y Bebidas Ltda.
+PROD-0186,Limpieza 14,Limpieza,Bimbo,25900.0,137,Comercializadora Andina
+PROD-0187,Panadería 19,Panadería,Postobón,21000.0,449,Importadora Global
+PROD-0188,Carnes 47,Carnes,Bimbo,18800.0,120,Alimentos y Bebidas Ltda.
+PROD-0189,Lácteos 14,Lácteos,P&G,42400.0,124,Comercializadora Andina
+PROD-0190,Verduras 2,Verduras,Familia,47800.0,407,Comercializadora Andina
+PROD-0191,Verduras 1,Verduras,Ramo,21000.0,123,Importadora Global
+PROD-0192,Panadería 33,Panadería,Ramo,3500.0,290,Importadora Global
+PROD-0193,Frutas 3,Frutas,Bimbo,32200.0,345,Comercializadora Andina
+PROD-0194,Lácteos 35,Lácteos,Bimbo,6600.0,55,Supermercados S.A.
+PROD-0195,Abarrotes 36,Abarrotes,Coca-Cola,38900.0,436,Supermercados S.A.
+PROD-0196,Limpieza 42,Limpieza,P&G,40000.0,424,Comercializadora Andina
+PROD-0197,Cuidado Personal 7,Cuidado Personal,Familia,37700.0,482,Supermercados S.A.
+PROD-0198,Abarrotes 32,Abarrotes,P&G,46000.0,396,Supermercados S.A.
+PROD-0199,Bebidas 9,Bebidas,Coca-Cola,49700.0,104,Supermercados S.A.
+PROD-0200,Frutas 15,Frutas,Familia,8200.0,247,Alimentos y Bebidas Ltda.
+PROD-0201,Frutas 8,Frutas,Colanta,21900.0,59,Comercializadora Andina
+PROD-0202,Carnes 35,Carnes,Alpina,45800.0,500,Distribuidora Nacional
+PROD-0203,Cuidado Personal 22,Cuidado Personal,Alpina,30000.0,49,Alimentos y Bebidas Ltda.
+PROD-0204,Panadería 18,Panadería,Bimbo,30200.0,241,Alimentos y Bebidas Ltda.
+PROD-0205,Cuidado Personal 48,Cuidado Personal,Familia,19600.0,255,Comercializadora Andina
+PROD-0206,Lácteos 42,Lácteos,Bimbo,14400.0,42,Alimentos y Bebidas Ltda.
+PROD-0207,Dulces 6,Dulces,P&G,14700.0,64,Distribuidora Nacional
+PROD-0208,Abarrotes 13,Abarrotes,Bimbo,45700.0,428,Comercializadora Andina
+PROD-0209,Bebidas 50,Bebidas,Bimbo,46300.0,463,Supermercados S.A.
+PROD-0210,Panadería 18,Panadería,Colanta,10900.0,185,Supermercados S.A.
+PROD-0211,Limpieza 26,Limpieza,Familia,21000.0,152,Importadora Global
+PROD-0212,Limpieza 23,Limpieza,P&G,19200.0,26,Importadora Global
+PROD-0213,Cuidado Personal 30,Cuidado Personal,Alpina,15900.0,336,Supermercados S.A.
+PROD-0214,Cuidado Personal 47,Cuidado Personal,P&G,46600.0,104,Supermercados S.A.
+PROD-0215,Abarrotes 15,Abarrotes,Coca-Cola,28900.0,381,Importadora Global
+PROD-0216,Carnes 44,Carnes,Colanta,43200.0,198,Supermercados S.A.
+PROD-0217,Dulces 9,Dulces,Familia,25400.0,55,Importadora Global
+PROD-0218,Lácteos 22,Lácteos,Alpina,26900.0,43,Alimentos y Bebidas Ltda.
+PROD-0219,Verduras 46,Verduras,Familia,41900.0,473,Comercializadora Andina
+PROD-0220,Panadería 9,Panadería,Nestlé,4900.0,292,Comercializadora Andina
+PROD-0221,Dulces 29,Dulces,Alpina,26900.0,114,Supermercados S.A.
+PROD-0222,Frutas 41,Frutas,Bimbo,45500.0,292,Importadora Global
+PROD-0223,Verduras 37,Verduras,Colanta,39200.0,498,Supermercados S.A.
+PROD-0224,Dulces 32,Dulces,P&G,20100.0,298,Comercializadora Andina
+PROD-0225,Bebidas 42,Bebidas,Alpina,44700.0,287,Alimentos y Bebidas Ltda.
+PROD-0226,Panadería 47,Panadería,Ramo,18600.0,80,Alimentos y Bebidas Ltda.
+PROD-0227,Limpieza 34,Limpieza,Nestlé,39100.0,456,Comercializadora Andina
+PROD-0228,Frutas 38,Frutas,Nestlé,4900.0,261,Alimentos y Bebidas Ltda.
+PROD-0229,Abarrotes 17,Abarrotes,P&G,9400.0,327,Distribuidora Nacional
+PROD-0230,Panadería 11,Panadería,Diana,41400.0,375,Comercializadora Andina
+PROD-0231,Frutas 31,Frutas,Postobón,35500.0,122,Alimentos y Bebidas Ltda.
+PROD-0232,Frutas 15,Frutas,Postobón,27800.0,401,Alimentos y Bebidas Ltda.
+PROD-0233,Verduras 11,Verduras,Familia,28700.0,312,Alimentos y Bebidas Ltda.
+PROD-0234,Cuidado Personal 38,Cuidado Personal,Nestlé,19500.0,226,Importadora Global
+PROD-0235,Dulces 33,Dulces,Diana,47600.0,442,Comercializadora Andina
+PROD-0236,Dulces 33,Dulces,Bimbo,34200.0,462,Distribuidora Nacional
+PROD-0237,Panadería 23,Panadería,P&G,5300.0,65,Comercializadora Andina
+PROD-0238,Abarrotes 22,Abarrotes,Colanta,2400.0,211,Alimentos y Bebidas Ltda.
+PROD-0239,Dulces 47,Dulces,Familia,46300.0,392,Comercializadora Andina
+PROD-0240,Panadería 10,Panadería,Nestlé,44000.0,7,Alimentos y Bebidas Ltda.
+PROD-0241,Bebidas 42,Bebidas,Coca-Cola,24800.0,128,Alimentos y Bebidas Ltda.
+PROD-0242,Carnes 8,Carnes,Bimbo,27700.0,284,Supermercados S.A.
+PROD-0243,Carnes 49,Carnes,P&G,40800.0,82,Supermercados S.A.
+PROD-0244,Dulces 25,Dulces,Diana,42400.0,241,Supermercados S.A.
+PROD-0245,Carnes 3,Carnes,P&G,27000.0,376,Comercializadora Andina
+PROD-0246,Carnes 17,Carnes,Familia,5000.0,265,Distribuidora Nacional
+PROD-0247,Lácteos 27,Lácteos,Colanta,29700.0,10,Supermercados S.A.
+PROD-0248,Carnes 29,Carnes,Nestlé,14600.0,241,Importadora Global
+PROD-0249,Bebidas 25,Bebidas,Alpina,22000.0,291,Importadora Global
+PROD-0250,Frutas 16,Frutas,Alpina,2900.0,431,Distribuidora Nacional
+PROD-0251,Verduras 13,Verduras,Nestlé,47200.0,406,Importadora Global
+PROD-0252,Cuidado Personal 25,Cuidado Personal,Alpina,33500.0,136,Comercializadora Andina
+PROD-0253,Bebidas 50,Bebidas,Coca-Cola,21700.0,72,Alimentos y Bebidas Ltda.
+PROD-0254,Dulces 32,Dulces,Nestlé,22100.0,236,Distribuidora Nacional
+PROD-0255,Limpieza 16,Limpieza,P&G,9200.0,141,Importadora Global
+PROD-0256,Verduras 3,Verduras,Postobón,10200.0,70,Distribuidora Nacional
+PROD-0257,Dulces 50,Dulces,Diana,20500.0,432,Alimentos y Bebidas Ltda.
+PROD-0258,Abarrotes 35,Abarrotes,Diana,19800.0,163,Distribuidora Nacional
+PROD-0259,Dulces 21,Dulces,Ramo,33800.0,348,Supermercados S.A.
+PROD-0260,Panadería 28,Panadería,Alpina,30100.0,240,Distribuidora Nacional
+PROD-0261,Carnes 13,Carnes,Coca-Cola,7800.0,180,Alimentos y Bebidas Ltda.
+PROD-0262,Abarrotes 46,Abarrotes,Diana,31300.0,359,Distribuidora Nacional
+PROD-0263,Abarrotes 43,Abarrotes,Coca-Cola,4800.0,374,Comercializadora Andina
+PROD-0264,Lácteos 37,Lácteos,Colanta,3400.0,449,Distribuidora Nacional
+PROD-0265,Cuidado Personal 28,Cuidado Personal,Diana,44200.0,392,Distribuidora Nacional
+PROD-0266,Panadería 45,Panadería,Colanta,12700.0,219,Comercializadora Andina
+PROD-0267,Dulces 14,Dulces,Colanta,17100.0,175,Distribuidora Nacional
+PROD-0268,Dulces 9,Dulces,Familia,43000.0,107,Supermercados S.A.
+PROD-0269,Frutas 49,Frutas,Bimbo,27000.0,467,Distribuidora Nacional
+PROD-0270,Limpieza 33,Limpieza,Postobón,43800.0,407,Importadora Global
+PROD-0271,Cuidado Personal 15,Cuidado Personal,Ramo,4900.0,200,Supermercados S.A.
+PROD-0272,Lácteos 36,Lácteos,Diana,27400.0,239,Importadora Global
+PROD-0273,Panadería 25,Panadería,Ramo,16800.0,423,Alimentos y Bebidas Ltda.
+PROD-0274,Limpieza 19,Limpieza,Familia,46100.0,434,Supermercados S.A.
+PROD-0275,Panadería 37,Panadería,Bimbo,29700.0,30,Alimentos y Bebidas Ltda.
+PROD-0276,Cuidado Personal 22,Cuidado Personal,Bimbo,15900.0,269,Alimentos y Bebidas Ltda.
+PROD-0277,Carnes 21,Carnes,Coca-Cola,34600.0,381,Supermercados S.A.
+PROD-0278,Dulces 31,Dulces,Bimbo,45500.0,363,Importadora Global
+PROD-0279,Bebidas 2,Bebidas,Colanta,45900.0,329,Distribuidora Nacional
+PROD-0280,Frutas 28,Frutas,Familia,30200.0,302,Alimentos y Bebidas Ltda.
+PROD-0281,Frutas 22,Frutas,P&G,14300.0,173,Supermercados S.A.
+PROD-0282,Panadería 22,Panadería,Familia,12500.0,159,Comercializadora Andina
+PROD-0283,Bebidas 41,Bebidas,Postobón,19500.0,331,Importadora Global
+PROD-0284,Carnes 9,Carnes,Nestlé,25500.0,250,Comercializadora Andina
+PROD-0285,Frutas 7,Frutas,Familia,35700.0,105,Importadora Global
+PROD-0286,Abarrotes 29,Abarrotes,Nestlé,5500.0,226,Supermercados S.A.
+PROD-0287,Limpieza 17,Limpieza,Coca-Cola,7500.0,255,Distribuidora Nacional
+PROD-0288,Abarrotes 15,Abarrotes,Coca-Cola,16200.0,113,Importadora Global
+PROD-0289,Bebidas 14,Bebidas,Ramo,31100.0,178,Comercializadora Andina
+PROD-0290,Limpieza 3,Limpieza,Postobón,47300.0,40,Alimentos y Bebidas Ltda.
+PROD-0291,Verduras 2,Verduras,Postobón,10400.0,361,Distribuidora Nacional
+PROD-0292,Dulces 33,Dulces,Ramo,26000.0,341,Alimentos y Bebidas Ltda.
+PROD-0293,Carnes 26,Carnes,Alpina,9900.0,164,Importadora Global
+PROD-0294,Frutas 10,Frutas,Postobón,42300.0,389,Importadora Global
+PROD-0295,Cuidado Personal 30,Cuidado Personal,Nestlé,18500.0,283,Importadora Global
+PROD-0296,Abarrotes 37,Abarrotes,Familia,24200.0,192,Alimentos y Bebidas Ltda.
+PROD-0297,Cuidado Personal 13,Cuidado Personal,Alpina,18800.0,145,Supermercados S.A.
+PROD-0298,Limpieza 29,Limpieza,Coca-Cola,7200.0,242,Importadora Global
+PROD-0299,Panadería 16,Panadería,Colanta,10400.0,141,Comercializadora Andina
+PROD-0300,Panadería 31,Panadería,Diana,34000.0,84,Alimentos y Bebidas Ltda.
+PROD-0301,Abarrotes 34,Abarrotes,P&G,28100.0,292,Distribuidora Nacional
+PROD-0302,Panadería 48,Panadería,Ramo,46300.0,376,Importadora Global
+PROD-0303,Cuidado Personal 3,Cuidado Personal,Alpina,3400.0,316,Comercializadora Andina
+PROD-0304,Carnes 15,Carnes,Postobón,48400.0,200,Supermercados S.A.
+PROD-0305,Carnes 17,Carnes,Nestlé,12400.0,375,Comercializadora Andina
+PROD-0306,Dulces 18,Dulces,Coca-Cola,16800.0,463,Alimentos y Bebidas Ltda.
+PROD-0307,Dulces 38,Dulces,Ramo,1900.0,74,Distribuidora Nacional
+PROD-0308,Cuidado Personal 1,Cuidado Personal,Alpina,45100.0,246,Comercializadora Andina
+PROD-0309,Cuidado Personal 9,Cuidado Personal,Familia,26800.0,210,Alimentos y Bebidas Ltda.
+PROD-0310,Abarrotes 4,Abarrotes,Familia,4200.0,121,Importadora Global
+PROD-0311,Panadería 21,Panadería,Coca-Cola,26100.0,16,Supermercados S.A.
+PROD-0312,Dulces 21,Dulces,P&G,28100.0,72,Distribuidora Nacional
+PROD-0313,Abarrotes 14,Abarrotes,Colanta,19100.0,219,Supermercados S.A.
+PROD-0314,Cuidado Personal 16,Cuidado Personal,Bimbo,44600.0,301,Alimentos y Bebidas Ltda.
+PROD-0315,Dulces 9,Dulces,Familia,47800.0,243,Importadora Global
+PROD-0316,Verduras 13,Verduras,Ramo,18300.0,450,Alimentos y Bebidas Ltda.
+PROD-0317,Limpieza 2,Limpieza,Postobón,11600.0,352,Supermercados S.A.
+PROD-0318,Verduras 48,Verduras,Colanta,47200.0,424,Distribuidora Nacional
+PROD-0319,Lácteos 7,Lácteos,P&G,30100.0,9,Alimentos y Bebidas Ltda.
+PROD-0320,Panadería 6,Panadería,Colanta,38800.0,241,Importadora Global
+PROD-0321,Carnes 48,Carnes,Ramo,48800.0,252,Supermercados S.A.
+PROD-0322,Frutas 40,Frutas,Nestlé,15000.0,444,Supermercados S.A.
+PROD-0323,Abarrotes 11,Abarrotes,P&G,24100.0,94,Comercializadora Andina
+PROD-0324,Cuidado Personal 4,Cuidado Personal,Diana,19800.0,239,Importadora Global
+PROD-0325,Abarrotes 7,Abarrotes,Ramo,4600.0,230,Alimentos y Bebidas Ltda.
+PROD-0326,Bebidas 40,Bebidas,P&G,37900.0,394,Comercializadora Andina
+PROD-0327,Carnes 30,Carnes,P&G,15000.0,11,Distribuidora Nacional
+PROD-0328,Bebidas 49,Bebidas,Alpina,30500.0,77,Importadora Global
+PROD-0329,Bebidas 6,Bebidas,Diana,16000.0,489,Comercializadora Andina
+PROD-0330,Carnes 11,Carnes,Ramo,46100.0,297,Alimentos y Bebidas Ltda.
+PROD-0331,Frutas 3,Frutas,Familia,48500.0,433,Supermercados S.A.
+PROD-0332,Panadería 9,Panadería,Diana,21000.0,75,Distribuidora Nacional
+PROD-0333,Lácteos 48,Lácteos,P&G,7100.0,88,Alimentos y Bebidas Ltda.
+PROD-0334,Limpieza 18,Limpieza,P&G,12000.0,488,Importadora Global
+PROD-0335,Limpieza 5,Limpieza,Ramo,34300.0,214,Distribuidora Nacional
+PROD-0336,Limpieza 47,Limpieza,Diana,21100.0,351,Importadora Global
+PROD-0337,Verduras 6,Verduras,Alpina,49900.0,360,Distribuidora Nacional
+PROD-0338,Abarrotes 22,Abarrotes,Diana,28600.0,270,Distribuidora Nacional
+PROD-0339,Dulces 26,Dulces,Diana,34300.0,372,Distribuidora Nacional
+PROD-0340,Panadería 20,Panadería,P&G,35000.0,249,Importadora Global
+PROD-0341,Dulces 4,Dulces,Alpina,11200.0,284,Supermercados S.A.
+PROD-0342,Carnes 8,Carnes,P&G,30600.0,66,Supermercados S.A.
+PROD-0343,Abarrotes 33,Abarrotes,Bimbo,14700.0,467,Supermercados S.A.
+PROD-0344,Frutas 18,Frutas,Coca-Cola,39800.0,175,Alimentos y Bebidas Ltda.
+PROD-0345,Panadería 33,Panadería,P&G,24000.0,363,Distribuidora Nacional
+PROD-0346,Dulces 6,Dulces,Postobón,25400.0,479,Supermercados S.A.
+PROD-0347,Panadería 37,Panadería,Familia,34000.0,210,Distribuidora Nacional
+PROD-0348,Verduras 45,Verduras,Ramo,42300.0,155,Supermercados S.A.
+PROD-0349,Frutas 34,Frutas,Nestlé,19700.0,219,Supermercados S.A.
+PROD-0350,Lácteos 44,Lácteos,Bimbo,41200.0,160,Importadora Global
+PROD-0351,Verduras 35,Verduras,Bimbo,30300.0,22,Comercializadora Andina
+PROD-0352,Abarrotes 26,Abarrotes,Postobón,24500.0,483,Comercializadora Andina
+PROD-0353,Limpieza 23,Limpieza,P&G,42700.0,498,Distribuidora Nacional
+PROD-0354,Dulces 41,Dulces,Alpina,46900.0,201,Importadora Global
+PROD-0355,Dulces 19,Dulces,Colanta,48000.0,113,Importadora Global
+PROD-0356,Carnes 37,Carnes,Diana,19100.0,18,Distribuidora Nacional
+PROD-0357,Panadería 38,Panadería,Familia,20700.0,226,Comercializadora Andina
+PROD-0358,Frutas 1,Frutas,Familia,21200.0,322,Importadora Global
+PROD-0359,Limpieza 2,Limpieza,Colanta,19500.0,437,Comercializadora Andina
+PROD-0360,Bebidas 3,Bebidas,Ramo,44600.0,26,Importadora Global
+PROD-0361,Carnes 49,Carnes,Postobón,14700.0,338,Distribuidora Nacional
+PROD-0362,Panadería 12,Panadería,P&G,48700.0,407,Alimentos y Bebidas Ltda.
+PROD-0363,Frutas 44,Frutas,Diana,25700.0,53,Supermercados S.A.
+PROD-0364,Lácteos 47,Lácteos,P&G,5800.0,229,Importadora Global
+PROD-0365,Dulces 16,Dulces,Bimbo,42100.0,64,Comercializadora Andina
+PROD-0366,Lácteos 28,Lácteos,Postobón,33100.0,98,Comercializadora Andina
+PROD-0367,Verduras 17,Verduras,Diana,32800.0,433,Alimentos y Bebidas Ltda.
+PROD-0368,Abarrotes 1,Abarrotes,Postobón,5000.0,198,Distribuidora Nacional
+PROD-0369,Lácteos 17,Lácteos,P&G,25700.0,115,Comercializadora Andina
+PROD-0370,Dulces 13,Dulces,Postobón,15500.0,85,Supermercados S.A.
+PROD-0371,Dulces 3,Dulces,Bimbo,14700.0,40,Supermercados S.A.
+PROD-0372,Lácteos 36,Lácteos,Familia,27500.0,237,Distribuidora Nacional
+PROD-0373,Dulces 11,Dulces,Nestlé,17500.0,84,Distribuidora Nacional
+PROD-0374,Lácteos 34,Lácteos,Ramo,22000.0,400,Importadora Global
+PROD-0375,Bebidas 3,Bebidas,Familia,38400.0,90,Distribuidora Nacional
+PROD-0376,Lácteos 18,Lácteos,Postobón,24500.0,362,Importadora Global
+PROD-0377,Limpieza 10,Limpieza,Alpina,15000.0,377,Comercializadora Andina
+PROD-0378,Panadería 45,Panadería,Familia,29600.0,466,Distribuidora Nacional
+PROD-0379,Limpieza 50,Limpieza,Nestlé,16300.0,34,Supermercados S.A.
+PROD-0380,Bebidas 19,Bebidas,Bimbo,23400.0,377,Supermercados S.A.
+PROD-0381,Dulces 29,Dulces,Alpina,34000.0,38,Importadora Global
+PROD-0382,Panadería 15,Panadería,Nestlé,15100.0,244,Alimentos y Bebidas Ltda.
+PROD-0383,Verduras 46,Verduras,Colanta,4000.0,79,Supermercados S.A.
+PROD-0384,Limpieza 6,Limpieza,Colanta,43900.0,169,Importadora Global
+PROD-0385,Limpieza 13,Limpieza,Familia,43000.0,108,Supermercados S.A.
+PROD-0386,Bebidas 42,Bebidas,Nestlé,25800.0,214,Alimentos y Bebidas Ltda.
+PROD-0387,Frutas 46,Frutas,Bimbo,36000.0,17,Supermercados S.A.
+PROD-0388,Frutas 7,Frutas,Nestlé,43900.0,152,Comercializadora Andina
+PROD-0389,Verduras 46,Verduras,Nestlé,11000.0,488,Distribuidora Nacional
+PROD-0390,Abarrotes 45,Abarrotes,Postobón,30800.0,178,Supermercados S.A.
+PROD-0391,Bebidas 22,Bebidas,Nestlé,20500.0,270,Distribuidora Nacional
+PROD-0392,Panadería 9,Panadería,Bimbo,49600.0,86,Comercializadora Andina
+PROD-0393,Frutas 43,Frutas,Familia,49900.0,129,Supermercados S.A.
+PROD-0394,Carnes 42,Carnes,Ramo,6400.0,475,Supermercados S.A.
+PROD-0395,Panadería 2,Panadería,Nestlé,19400.0,160,Alimentos y Bebidas Ltda.
+PROD-0396,Frutas 20,Frutas,Postobón,24500.0,295,Supermercados S.A.
+PROD-0397,Panadería 20,Panadería,Coca-Cola,41500.0,144,Comercializadora Andina
+PROD-0398,Dulces 43,Dulces,P&G,19100.0,40,Distribuidora Nacional
+PROD-0399,Lácteos 28,Lácteos,Colanta,42400.0,51,Distribuidora Nacional
+PROD-0400,Dulces 15,Dulces,Ramo,31800.0,79,Importadora Global
+PROD-0401,Lácteos 1,Lácteos,P&G,23700.0,326,Alimentos y Bebidas Ltda.
+PROD-0402,Frutas 41,Frutas,Colanta,5800.0,384,Comercializadora Andina
+PROD-0403,Dulces 14,Dulces,P&G,20100.0,480,Alimentos y Bebidas Ltda.
+PROD-0404,Frutas 16,Frutas,Nestlé,40300.0,66,Comercializadora Andina
+PROD-0405,Verduras 26,Verduras,Nestlé,2600.0,288,Importadora Global
+PROD-0406,Panadería 23,Panadería,Diana,37600.0,213,Importadora Global
+PROD-0407,Lácteos 17,Lácteos,Familia,39600.0,457,Supermercados S.A.
+PROD-0408,Abarrotes 33,Abarrotes,Coca-Cola,30400.0,72,Importadora Global
+PROD-0409,Cuidado Personal 2,Cuidado Personal,Ramo,14400.0,285,Supermercados S.A.
+PROD-0410,Carnes 33,Carnes,P&G,34500.0,274,Importadora Global
+PROD-0411,Panadería 17,Panadería,Colanta,36700.0,241,Importadora Global
+PROD-0412,Frutas 35,Frutas,Coca-Cola,45400.0,44,Importadora Global
+PROD-0413,Frutas 13,Frutas,Diana,41200.0,494,Importadora Global
+PROD-0414,Cuidado Personal 21,Cuidado Personal,Bimbo,31700.0,153,Importadora Global
+PROD-0415,Carnes 42,Carnes,Nestlé,40600.0,41,Importadora Global
+PROD-0416,Bebidas 47,Bebidas,Bimbo,4200.0,361,Distribuidora Nacional
+PROD-0417,Cuidado Personal 19,Cuidado Personal,P&G,17200.0,332,Importadora Global
+PROD-0418,Abarrotes 34,Abarrotes,Coca-Cola,45900.0,227,Distribuidora Nacional
+PROD-0419,Limpieza 34,Limpieza,Coca-Cola,5200.0,255,Alimentos y Bebidas Ltda.
+PROD-0420,Lácteos 43,Lácteos,Coca-Cola,8300.0,440,Alimentos y Bebidas Ltda.
+PROD-0421,Cuidado Personal 26,Cuidado Personal,Postobón,45500.0,434,Comercializadora Andina
+PROD-0422,Panadería 18,Panadería,P&G,47000.0,19,Alimentos y Bebidas Ltda.
+PROD-0423,Bebidas 48,Bebidas,Postobón,6100.0,405,Supermercados S.A.
+PROD-0424,Lácteos 34,Lácteos,Alpina,2800.0,63,Distribuidora Nacional
+PROD-0425,Bebidas 12,Bebidas,Postobón,23600.0,64,Distribuidora Nacional
+PROD-0426,Abarrotes 29,Abarrotes,Coca-Cola,48900.0,33,Importadora Global
+PROD-0427,Bebidas 50,Bebidas,Bimbo,42100.0,234,Importadora Global
+PROD-0428,Verduras 41,Verduras,Colanta,46700.0,159,Alimentos y Bebidas Ltda.
+PROD-0429,Carnes 42,Carnes,Bimbo,19900.0,86,Alimentos y Bebidas Ltda.
+PROD-0430,Cuidado Personal 45,Cuidado Personal,Ramo,48600.0,462,Supermercados S.A.
+PROD-0431,Limpieza 27,Limpieza,Bimbo,16500.0,442,Supermercados S.A.
+PROD-0432,Carnes 49,Carnes,P&G,30700.0,7,Alimentos y Bebidas Ltda.
+PROD-0433,Abarrotes 32,Abarrotes,Postobón,45900.0,13,Comercializadora Andina
+PROD-0434,Frutas 11,Frutas,Nestlé,21200.0,64,Importadora Global
+PROD-0435,Cuidado Personal 27,Cuidado Personal,Colanta,31500.0,37,Alimentos y Bebidas Ltda.
+PROD-0436,Lácteos 3,Lácteos,Colanta,19400.0,297,Importadora Global
+PROD-0437,Carnes 9,Carnes,Bimbo,33200.0,226,Alimentos y Bebidas Ltda.
+PROD-0438,Abarrotes 29,Abarrotes,Familia,45800.0,120,Comercializadora Andina
+PROD-0439,Frutas 38,Frutas,Familia,15100.0,191,Importadora Global
+PROD-0440,Panadería 14,Panadería,Familia,45900.0,410,Alimentos y Bebidas Ltda.
+PROD-0441,Cuidado Personal 21,Cuidado Personal,Coca-Cola,19100.0,6,Importadora Global
+PROD-0442,Dulces 49,Dulces,Alpina,9200.0,488,Alimentos y Bebidas Ltda.
+PROD-0443,Cuidado Personal 34,Cuidado Personal,Colanta,44200.0,71,Comercializadora Andina
+PROD-0444,Lácteos 37,Lácteos,Bimbo,47500.0,304,Alimentos y Bebidas Ltda.
+PROD-0445,Lácteos 1,Lácteos,P&G,20400.0,96,Comercializadora Andina
+PROD-0446,Cuidado Personal 17,Cuidado Personal,Diana,4800.0,226,Comercializadora Andina
+PROD-0447,Panadería 12,Panadería,Bimbo,32400.0,265,Distribuidora Nacional
+PROD-0448,Bebidas 30,Bebidas,Nestlé,17600.0,324,Distribuidora Nacional
+PROD-0449,Abarrotes 14,Abarrotes,Familia,27100.0,104,Importadora Global
+PROD-0450,Verduras 37,Verduras,P&G,30100.0,345,Importadora Global
+PROD-0451,Panadería 21,Panadería,Coca-Cola,6000.0,11,Alimentos y Bebidas Ltda.
+PROD-0452,Verduras 42,Verduras,Postobón,24900.0,124,Comercializadora Andina
+PROD-0453,Bebidas 3,Bebidas,Nestlé,42000.0,381,Distribuidora Nacional
+PROD-0454,Bebidas 44,Bebidas,Postobón,20900.0,476,Importadora Global
+PROD-0455,Panadería 43,Panadería,Alpina,26800.0,28,Importadora Global
+PROD-0456,Dulces 20,Dulces,Diana,16800.0,411,Comercializadora Andina
+PROD-0457,Carnes 45,Carnes,Familia,47600.0,181,Comercializadora Andina
+PROD-0458,Dulces 39,Dulces,Alpina,20200.0,499,Importadora Global
+PROD-0459,Abarrotes 9,Abarrotes,Nestlé,13000.0,120,Importadora Global
+PROD-0460,Abarrotes 40,Abarrotes,Alpina,10600.0,340,Importadora Global
+PROD-0461,Abarrotes 31,Abarrotes,Alpina,6100.0,344,Distribuidora Nacional
+PROD-0462,Verduras 47,Verduras,Ramo,5400.0,119,Alimentos y Bebidas Ltda.
+PROD-0463,Bebidas 37,Bebidas,Postobón,2700.0,318,Comercializadora Andina
+PROD-0464,Carnes 37,Carnes,Diana,25000.0,223,Importadora Global
+PROD-0465,Bebidas 28,Bebidas,Diana,6300.0,40,Supermercados S.A.
+PROD-0466,Panadería 5,Panadería,Colanta,45200.0,34,Distribuidora Nacional
+PROD-0467,Limpieza 42,Limpieza,Familia,11800.0,277,Supermercados S.A.
+PROD-0468,Abarrotes 6,Abarrotes,Alpina,32300.0,269,Importadora Global
+PROD-0469,Cuidado Personal 39,Cuidado Personal,Nestlé,31400.0,157,Importadora Global
+PROD-0470,Frutas 19,Frutas,Nestlé,23400.0,112,Alimentos y Bebidas Ltda.
+PROD-0471,Dulces 45,Dulces,Postobón,26300.0,362,Comercializadora Andina
+PROD-0472,Cuidado Personal 46,Cuidado Personal,Postobón,30400.0,150,Importadora Global
+PROD-0473,Verduras 36,Verduras,Nestlé,41400.0,383,Comercializadora Andina
+PROD-0474,Dulces 19,Dulces,Nestlé,39500.0,130,Importadora Global
+PROD-0475,Dulces 47,Dulces,Postobón,47200.0,77,Comercializadora Andina
+PROD-0476,Panadería 46,Panadería,Postobón,19000.0,294,Alimentos y Bebidas Ltda.
+PROD-0477,Cuidado Personal 9,Cuidado Personal,Ramo,24800.0,269,Alimentos y Bebidas Ltda.
+PROD-0478,Verduras 28,Verduras,Nestlé,1700.0,267,Supermercados S.A.
+PROD-0479,Verduras 8,Verduras,Postobón,9000.0,123,Alimentos y Bebidas Ltda.
+PROD-0480,Carnes 25,Carnes,Familia,4700.0,256,Alimentos y Bebidas Ltda.
+PROD-0481,Lácteos 13,Lácteos,Ramo,13000.0,44,Importadora Global
+PROD-0482,Abarrotes 12,Abarrotes,Colanta,38500.0,81,Importadora Global
+PROD-0483,Limpieza 21,Limpieza,Colanta,32900.0,370,Comercializadora Andina
+PROD-0484,Limpieza 40,Limpieza,Familia,7200.0,492,Comercializadora Andina
+PROD-0485,Limpieza 15,Limpieza,Alpina,40500.0,248,Importadora Global
+PROD-0486,Panadería 32,Panadería,Nestlé,9600.0,83,Alimentos y Bebidas Ltda.
+PROD-0487,Panadería 22,Panadería,Bimbo,40000.0,326,Supermercados S.A.
+PROD-0488,Panadería 7,Panadería,P&G,10100.0,159,Alimentos y Bebidas Ltda.
+PROD-0489,Dulces 3,Dulces,Coca-Cola,17700.0,192,Comercializadora Andina
+PROD-0490,Carnes 47,Carnes,Colanta,39700.0,386,Supermercados S.A.
+PROD-0491,Limpieza 16,Limpieza,Diana,29500.0,465,Comercializadora Andina
+PROD-0492,Dulces 33,Dulces,Diana,5900.0,268,Comercializadora Andina
+PROD-0493,Lácteos 49,Lácteos,Coca-Cola,29500.0,147,Distribuidora Nacional
+PROD-0494,Bebidas 42,Bebidas,Bimbo,16500.0,260,Importadora Global
+PROD-0495,Dulces 37,Dulces,Ramo,35900.0,149,Importadora Global
+PROD-0496,Cuidado Personal 37,Cuidado Personal,Bimbo,1600.0,6,Distribuidora Nacional
+PROD-0497,Panadería 6,Panadería,P&G,43800.0,157,Distribuidora Nacional
+PROD-0498,Cuidado Personal 41,Cuidado Personal,Coca-Cola,49100.0,162,Alimentos y Bebidas Ltda.
+PROD-0499,Carnes 33,Carnes,Familia,44500.0,476,Importadora Global
+PROD-0500,Bebidas 16,Bebidas,Colanta,39300.0,218,Comercializadora Andina
+PROD-0501,Lácteos 35,Lácteos,Ramo,13300.0,160,Alimentos y Bebidas Ltda.
+PROD-0502,Lácteos 31,Lácteos,Coca-Cola,46700.0,487,Comercializadora Andina
+PROD-0503,Limpieza 47,Limpieza,Diana,42800.0,88,Alimentos y Bebidas Ltda.
+PROD-0504,Carnes 32,Carnes,Ramo,31300.0,219,Alimentos y Bebidas Ltda.
+PROD-0505,Lácteos 43,Lácteos,Alpina,6900.0,120,Alimentos y Bebidas Ltda.
+PROD-0506,Lácteos 49,Lácteos,Nestlé,29000.0,27,Alimentos y Bebidas Ltda.
+PROD-0507,Panadería 50,Panadería,P&G,41300.0,229,Distribuidora Nacional
+PROD-0508,Abarrotes 8,Abarrotes,Nestlé,15800.0,287,Distribuidora Nacional
+PROD-0509,Frutas 16,Frutas,Coca-Cola,8600.0,13,Importadora Global
+PROD-0510,Frutas 38,Frutas,Colanta,23600.0,52,Comercializadora Andina
+PROD-0511,Carnes 47,Carnes,Alpina,44400.0,394,Distribuidora Nacional
+PROD-0512,Abarrotes 26,Abarrotes,Alpina,11900.0,341,Alimentos y Bebidas Ltda.
+PROD-0513,Lácteos 24,Lácteos,P&G,10600.0,312,Alimentos y Bebidas Ltda.
+PROD-0514,Verduras 38,Verduras,Alpina,30800.0,245,Distribuidora Nacional
+PROD-0515,Frutas 21,Frutas,Ramo,29400.0,149,Distribuidora Nacional
+PROD-0516,Dulces 8,Dulces,Coca-Cola,8800.0,185,Comercializadora Andina
+PROD-0517,Bebidas 28,Bebidas,Alpina,31400.0,390,Importadora Global
+PROD-0518,Dulces 39,Dulces,P&G,26900.0,435,Alimentos y Bebidas Ltda.
+PROD-0519,Limpieza 50,Limpieza,Nestlé,20800.0,32,Distribuidora Nacional
+PROD-0520,Bebidas 12,Bebidas,Bimbo,1700.0,74,Comercializadora Andina
+PROD-0521,Limpieza 27,Limpieza,Coca-Cola,21600.0,53,Supermercados S.A.
+PROD-0522,Dulces 1,Dulces,Alpina,8900.0,211,Alimentos y Bebidas Ltda.
+PROD-0523,Bebidas 23,Bebidas,Alpina,42600.0,262,Comercializadora Andina
+PROD-0524,Limpieza 12,Limpieza,Familia,22400.0,214,Distribuidora Nacional
+PROD-0525,Dulces 28,Dulces,Nestlé,13900.0,442,Supermercados S.A.
+PROD-0526,Bebidas 1,Bebidas,Ramo,12700.0,145,Distribuidora Nacional
+PROD-0527,Dulces 40,Dulces,Ramo,49900.0,441,Distribuidora Nacional
+PROD-0528,Abarrotes 16,Abarrotes,Postobón,14000.0,498,Alimentos y Bebidas Ltda.
+PROD-0529,Carnes 50,Carnes,Colanta,16900.0,467,Alimentos y Bebidas Ltda.
+PROD-0530,Carnes 8,Carnes,Nestlé,11600.0,336,Supermercados S.A.
+PROD-0531,Panadería 44,Panadería,Alpina,17400.0,378,Supermercados S.A.
+PROD-0532,Frutas 10,Frutas,Bimbo,44000.0,324,Alimentos y Bebidas Ltda.
+PROD-0533,Frutas 10,Frutas,P&G,43600.0,361,Comercializadora Andina
+PROD-0534,Abarrotes 20,Abarrotes,Nestlé,39900.0,297,Supermercados S.A.
+PROD-0535,Lácteos 40,Lácteos,Colanta,9200.0,489,Supermercados S.A.
+PROD-0536,Bebidas 7,Bebidas,Colanta,16700.0,143,Comercializadora Andina
+PROD-0537,Verduras 10,Verduras,Coca-Cola,21500.0,474,Comercializadora Andina
+PROD-0538,Carnes 48,Carnes,Diana,38700.0,171,Supermercados S.A.
+PROD-0539,Frutas 37,Frutas,Postobón,6400.0,437,Supermercados S.A.
+PROD-0540,Carnes 3,Carnes,Coca-Cola,33200.0,90,Supermercados S.A.
+PROD-0541,Lácteos 28,Lácteos,Ramo,22000.0,40,Distribuidora Nacional
+PROD-0542,Verduras 9,Verduras,P&G,28500.0,400,Supermercados S.A.
+PROD-0543,Carnes 24,Carnes,P&G,42100.0,230,Distribuidora Nacional
+PROD-0544,Dulces 33,Dulces,Diana,41600.0,120,Comercializadora Andina
+PROD-0545,Dulces 15,Dulces,P&G,40200.0,146,Alimentos y Bebidas Ltda.
+PROD-0546,Limpieza 49,Limpieza,Postobón,7400.0,196,Importadora Global
+PROD-0547,Carnes 48,Carnes,Postobón,33100.0,82,Supermercados S.A.
+PROD-0548,Cuidado Personal 14,Cuidado Personal,Bimbo,38800.0,206,Supermercados S.A.
+PROD-0549,Lácteos 21,Lácteos,Postobón,10100.0,460,Comercializadora Andina
+PROD-0550,Verduras 10,Verduras,Diana,27400.0,440,Distribuidora Nacional
+PROD-0551,Lácteos 26,Lácteos,Diana,15800.0,340,Comercializadora Andina
+PROD-0552,Bebidas 42,Bebidas,Diana,37800.0,488,Distribuidora Nacional
+PROD-0553,Cuidado Personal 36,Cuidado Personal,Postobón,26900.0,76,Distribuidora Nacional
+PROD-0554,Limpieza 13,Limpieza,Coca-Cola,10200.0,201,Comercializadora Andina
+PROD-0555,Carnes 43,Carnes,Postobón,17000.0,201,Alimentos y Bebidas Ltda.
+PROD-0556,Dulces 14,Dulces,Alpina,21900.0,76,Comercializadora Andina
+PROD-0557,Cuidado Personal 30,Cuidado Personal,Bimbo,44300.0,178,Comercializadora Andina
+PROD-0558,Limpieza 20,Limpieza,Nestlé,45800.0,275,Supermercados S.A.
+PROD-0559,Panadería 18,Panadería,Alpina,30000.0,132,Alimentos y Bebidas Ltda.
+PROD-0560,Frutas 36,Frutas,Postobón,38700.0,383,Importadora Global
+PROD-0561,Lácteos 14,Lácteos,Colanta,38200.0,471,Importadora Global
+PROD-0562,Lácteos 27,Lácteos,Colanta,3100.0,345,Supermercados S.A.
+PROD-0563,Limpieza 29,Limpieza,Postobón,44400.0,329,Importadora Global
+PROD-0564,Lácteos 31,Lácteos,Colanta,7600.0,212,Distribuidora Nacional
+PROD-0565,Frutas 1,Frutas,Bimbo,16900.0,406,Alimentos y Bebidas Ltda.
+PROD-0566,Carnes 38,Carnes,Ramo,48000.0,365,Alimentos y Bebidas Ltda.
+PROD-0567,Panadería 45,Panadería,Diana,6700.0,411,Distribuidora Nacional
+PROD-0568,Bebidas 2,Bebidas,Familia,5300.0,273,Comercializadora Andina
+PROD-0569,Abarrotes 31,Abarrotes,Diana,43200.0,27,Comercializadora Andina
+PROD-0570,Abarrotes 4,Abarrotes,Nestlé,1600.0,85,Importadora Global
+PROD-0571,Cuidado Personal 42,Cuidado Personal,Colanta,19500.0,427,Distribuidora Nacional
+PROD-0572,Bebidas 41,Bebidas,Coca-Cola,34400.0,239,Distribuidora Nacional
+PROD-0573,Verduras 47,Verduras,Colanta,42700.0,45,Distribuidora Nacional
+PROD-0574,Bebidas 3,Bebidas,Colanta,19300.0,350,Alimentos y Bebidas Ltda.
+PROD-0575,Lácteos 22,Lácteos,Postobón,11700.0,287,Alimentos y Bebidas Ltda.
+PROD-0576,Panadería 38,Panadería,Bimbo,41800.0,279,Importadora Global
+PROD-0577,Bebidas 47,Bebidas,Familia,38400.0,184,Alimentos y Bebidas Ltda.
+PROD-0578,Cuidado Personal 23,Cuidado Personal,Familia,21200.0,184,Importadora Global
+PROD-0579,Dulces 29,Dulces,Alpina,28400.0,293,Comercializadora Andina
+PROD-0580,Dulces 13,Dulces,Diana,31700.0,38,Comercializadora Andina
+PROD-0581,Carnes 41,Carnes,Postobón,18200.0,394,Comercializadora Andina
+PROD-0582,Frutas 32,Frutas,Familia,30400.0,354,Distribuidora Nacional
+PROD-0583,Panadería 9,Panadería,P&G,25400.0,78,Alimentos y Bebidas Ltda.
+PROD-0584,Frutas 17,Frutas,Colanta,11900.0,380,Importadora Global
+PROD-0585,Panadería 32,Panadería,Postobón,39800.0,189,Distribuidora Nacional
+PROD-0586,Dulces 1,Dulces,Familia,5500.0,464,Distribuidora Nacional
+PROD-0587,Abarrotes 19,Abarrotes,Coca-Cola,48100.0,60,Alimentos y Bebidas Ltda.
+PROD-0588,Cuidado Personal 11,Cuidado Personal,Familia,24600.0,216,Supermercados S.A.
+PROD-0589,Limpieza 19,Limpieza,Bimbo,6000.0,492,Alimentos y Bebidas Ltda.
+PROD-0590,Carnes 9,Carnes,P&G,49600.0,365,Importadora Global
+PROD-0591,Frutas 50,Frutas,Familia,7000.0,476,Supermercados S.A.
+PROD-0592,Carnes 12,Carnes,Nestlé,41100.0,124,Importadora Global
+PROD-0593,Lácteos 27,Lácteos,Coca-Cola,9700.0,226,Comercializadora Andina
+PROD-0594,Panadería 35,Panadería,Ramo,25500.0,6,Comercializadora Andina
+PROD-0595,Limpieza 7,Limpieza,P&G,14900.0,494,Comercializadora Andina
+PROD-0596,Verduras 48,Verduras,Postobón,48100.0,236,Supermercados S.A.
+PROD-0597,Frutas 21,Frutas,Familia,24000.0,320,Importadora Global
+PROD-0598,Verduras 11,Verduras,Colanta,42900.0,337,Supermercados S.A.
+PROD-0599,Bebidas 18,Bebidas,Bimbo,44200.0,127,Alimentos y Bebidas Ltda.
+PROD-0600,Bebidas 34,Bebidas,P&G,33700.0,466,Comercializadora Andina
+PROD-0601,Panadería 24,Panadería,Familia,20900.0,392,Distribuidora Nacional
+PROD-0602,Cuidado Personal 39,Cuidado Personal,Postobón,11600.0,464,Supermercados S.A.
+PROD-0603,Dulces 44,Dulces,Nestlé,18500.0,307,Comercializadora Andina
+PROD-0604,Verduras 42,Verduras,Coca-Cola,14600.0,400,Importadora Global
+PROD-0605,Limpieza 9,Limpieza,Coca-Cola,30600.0,218,Comercializadora Andina
+PROD-0606,Abarrotes 23,Abarrotes,Ramo,41400.0,241,Comercializadora Andina
+PROD-0607,Bebidas 9,Bebidas,Alpina,5100.0,287,Comercializadora Andina
+PROD-0608,Dulces 11,Dulces,Ramo,11700.0,69,Importadora Global
+PROD-0609,Bebidas 41,Bebidas,Ramo,7800.0,435,Supermercados S.A.
+PROD-0610,Bebidas 42,Bebidas,P&G,19500.0,432,Comercializadora Andina
+PROD-0611,Cuidado Personal 4,Cuidado Personal,Bimbo,22900.0,448,Supermercados S.A.
+PROD-0612,Bebidas 9,Bebidas,Colanta,48300.0,478,Supermercados S.A.
+PROD-0613,Bebidas 4,Bebidas,Bimbo,7300.0,241,Comercializadora Andina
+PROD-0614,Dulces 32,Dulces,Bimbo,47700.0,163,Comercializadora Andina
+PROD-0615,Frutas 20,Frutas,Bimbo,35100.0,347,Importadora Global
+PROD-0616,Dulces 18,Dulces,Diana,40700.0,119,Distribuidora Nacional
+PROD-0617,Dulces 27,Dulces,Colanta,15700.0,166,Importadora Global
+PROD-0618,Limpieza 20,Limpieza,Nestlé,22400.0,347,Supermercados S.A.
+PROD-0619,Carnes 18,Carnes,P&G,11600.0,481,Comercializadora Andina
+PROD-0620,Cuidado Personal 11,Cuidado Personal,Colanta,6000.0,75,Supermercados S.A.
+PROD-0621,Bebidas 43,Bebidas,Colanta,3600.0,37,Supermercados S.A.
+PROD-0622,Carnes 38,Carnes,P&G,16000.0,279,Distribuidora Nacional
+PROD-0623,Carnes 12,Carnes,P&G,34100.0,99,Alimentos y Bebidas Ltda.
+PROD-0624,Panadería 26,Panadería,Nestlé,28300.0,482,Supermercados S.A.
+PROD-0625,Lácteos 25,Lácteos,Postobón,31500.0,175,Alimentos y Bebidas Ltda.
+PROD-0626,Limpieza 44,Limpieza,Alpina,4600.0,436,Distribuidora Nacional
+PROD-0627,Verduras 34,Verduras,Diana,40100.0,351,Importadora Global
+PROD-0628,Abarrotes 2,Abarrotes,Diana,18400.0,487,Importadora Global
+PROD-0629,Limpieza 8,Limpieza,Alpina,15500.0,17,Comercializadora Andina
+PROD-0630,Lácteos 37,Lácteos,P&G,31500.0,436,Comercializadora Andina
+PROD-0631,Carnes 5,Carnes,Coca-Cola,36200.0,31,Distribuidora Nacional
+PROD-0632,Verduras 20,Verduras,Diana,47600.0,247,Alimentos y Bebidas Ltda.
+PROD-0633,Panadería 29,Panadería,Bimbo,21100.0,14,Distribuidora Nacional
+PROD-0634,Cuidado Personal 49,Cuidado Personal,Diana,28800.0,128,Alimentos y Bebidas Ltda.
+PROD-0635,Bebidas 18,Bebidas,Alpina,9700.0,100,Distribuidora Nacional
+PROD-0636,Dulces 11,Dulces,Nestlé,8200.0,376,Comercializadora Andina
+PROD-0637,Frutas 7,Frutas,Ramo,24700.0,73,Alimentos y Bebidas Ltda.
+PROD-0638,Carnes 47,Carnes,Bimbo,47000.0,35,Supermercados S.A.
+PROD-0639,Lácteos 11,Lácteos,Ramo,24300.0,391,Comercializadora Andina
+PROD-0640,Panadería 17,Panadería,Ramo,10800.0,366,Comercializadora Andina
+PROD-0641,Lácteos 49,Lácteos,Familia,27700.0,292,Comercializadora Andina
+PROD-0642,Frutas 47,Frutas,Bimbo,7200.0,305,Distribuidora Nacional
+PROD-0643,Abarrotes 7,Abarrotes,Nestlé,42900.0,113,Supermercados S.A.
+PROD-0644,Carnes 7,Carnes,Familia,22800.0,67,Alimentos y Bebidas Ltda.
+PROD-0645,Bebidas 33,Bebidas,Coca-Cola,13600.0,361,Distribuidora Nacional
+PROD-0646,Bebidas 30,Bebidas,Familia,9800.0,483,Supermercados S.A.
+PROD-0647,Frutas 17,Frutas,Ramo,19300.0,275,Alimentos y Bebidas Ltda.
+PROD-0648,Abarrotes 37,Abarrotes,Colanta,38800.0,223,Comercializadora Andina
+PROD-0649,Bebidas 38,Bebidas,P&G,9000.0,92,Supermercados S.A.
+PROD-0650,Bebidas 16,Bebidas,Nestlé,16900.0,495,Importadora Global
+PROD-0651,Panadería 46,Panadería,Ramo,13900.0,315,Alimentos y Bebidas Ltda.
+PROD-0652,Cuidado Personal 3,Cuidado Personal,P&G,47900.0,248,Importadora Global
+PROD-0653,Abarrotes 22,Abarrotes,Nestlé,20300.0,202,Comercializadora Andina
+PROD-0654,Lácteos 31,Lácteos,Bimbo,42500.0,53,Alimentos y Bebidas Ltda.
+PROD-0655,Cuidado Personal 34,Cuidado Personal,Nestlé,25800.0,57,Alimentos y Bebidas Ltda.
+PROD-0656,Cuidado Personal 41,Cuidado Personal,Coca-Cola,15700.0,233,Distribuidora Nacional
+PROD-0657,Panadería 49,Panadería,Diana,33300.0,432,Distribuidora Nacional
+PROD-0658,Cuidado Personal 8,Cuidado Personal,Bimbo,25500.0,182,Distribuidora Nacional
+PROD-0659,Panadería 37,Panadería,Colanta,12700.0,482,Importadora Global
+PROD-0660,Limpieza 20,Limpieza,Colanta,49400.0,259,Comercializadora Andina
+PROD-0661,Dulces 4,Dulces,Alpina,21800.0,392,Importadora Global
+PROD-0662,Carnes 48,Carnes,Colanta,45500.0,448,Comercializadora Andina
+PROD-0663,Frutas 43,Frutas,Diana,37500.0,495,Alimentos y Bebidas Ltda.
+PROD-0664,Frutas 11,Frutas,Alpina,15100.0,347,Supermercados S.A.
+PROD-0665,Frutas 50,Frutas,Bimbo,15400.0,181,Importadora Global
+PROD-0666,Dulces 18,Dulces,Nestlé,24700.0,386,Supermercados S.A.
+PROD-0667,Panadería 20,Panadería,Alpina,11100.0,5,Supermercados S.A.
+PROD-0668,Dulces 25,Dulces,Diana,34100.0,15,Distribuidora Nacional
+PROD-0669,Limpieza 40,Limpieza,Alpina,5800.0,359,Comercializadora Andina
+PROD-0670,Carnes 19,Carnes,P&G,27900.0,222,Importadora Global
+PROD-0671,Verduras 28,Verduras,Diana,1700.0,249,Alimentos y Bebidas Ltda.
+PROD-0672,Cuidado Personal 43,Cuidado Personal,Nestlé,6200.0,178,Supermercados S.A.
+PROD-0673,Abarrotes 35,Abarrotes,Nestlé,48500.0,42,Supermercados S.A.
+PROD-0674,Abarrotes 30,Abarrotes,Ramo,44400.0,247,Supermercados S.A.
+PROD-0675,Carnes 22,Carnes,Alpina,34800.0,347,Distribuidora Nacional
+PROD-0676,Panadería 12,Panadería,Postobón,12500.0,195,Importadora Global
+PROD-0677,Verduras 15,Verduras,P&G,8900.0,90,Distribuidora Nacional
+PROD-0678,Panadería 17,Panadería,Postobón,39600.0,449,Distribuidora Nacional
+PROD-0679,Carnes 4,Carnes,Diana,29300.0,477,Importadora Global
+PROD-0680,Limpieza 21,Limpieza,Coca-Cola,39200.0,150,Comercializadora Andina
+PROD-0681,Panadería 30,Panadería,Bimbo,40800.0,444,Supermercados S.A.
+PROD-0682,Dulces 3,Dulces,Ramo,4400.0,172,Supermercados S.A.
+PROD-0683,Panadería 9,Panadería,Colanta,33700.0,71,Importadora Global
+PROD-0684,Frutas 49,Frutas,Diana,28900.0,147,Supermercados S.A.
+PROD-0685,Bebidas 18,Bebidas,P&G,41100.0,427,Comercializadora Andina
+PROD-0686,Carnes 36,Carnes,Coca-Cola,20400.0,62,Comercializadora Andina
+PROD-0687,Dulces 35,Dulces,Colanta,41700.0,329,Comercializadora Andina
+PROD-0688,Abarrotes 21,Abarrotes,Coca-Cola,8800.0,304,Alimentos y Bebidas Ltda.
+PROD-0689,Frutas 7,Frutas,Bimbo,32500.0,205,Supermercados S.A.
+PROD-0690,Verduras 26,Verduras,Postobón,6100.0,171,Distribuidora Nacional
+PROD-0691,Abarrotes 16,Abarrotes,Diana,24000.0,389,Alimentos y Bebidas Ltda.
+PROD-0692,Cuidado Personal 23,Cuidado Personal,P&G,32500.0,371,Distribuidora Nacional
+PROD-0693,Verduras 25,Verduras,Familia,48000.0,368,Comercializadora Andina
+PROD-0694,Cuidado Personal 2,Cuidado Personal,P&G,12500.0,226,Importadora Global
+PROD-0695,Dulces 43,Dulces,Nestlé,26600.0,268,Supermercados S.A.
+PROD-0696,Abarrotes 44,Abarrotes,Colanta,41500.0,247,Comercializadora Andina
+PROD-0697,Limpieza 19,Limpieza,P&G,44500.0,133,Alimentos y Bebidas Ltda.
+PROD-0698,Lácteos 11,Lácteos,Diana,6000.0,262,Comercializadora Andina
+PROD-0699,Verduras 5,Verduras,Alpina,17500.0,19,Comercializadora Andina
+PROD-0700,Lácteos 46,Lácteos,Alpina,31700.0,396,Supermercados S.A.
+PROD-0701,Bebidas 4,Bebidas,Familia,46800.0,52,Comercializadora Andina
+PROD-0702,Dulces 34,Dulces,Alpina,25400.0,88,Comercializadora Andina
+PROD-0703,Bebidas 29,Bebidas,Diana,15800.0,166,Comercializadora Andina
+PROD-0704,Cuidado Personal 38,Cuidado Personal,Ramo,49800.0,278,Alimentos y Bebidas Ltda.
+PROD-0705,Lácteos 49,Lácteos,Ramo,43000.0,206,Alimentos y Bebidas Ltda.
+PROD-0706,Frutas 37,Frutas,Postobón,46000.0,154,Alimentos y Bebidas Ltda.
+PROD-0707,Cuidado Personal 19,Cuidado Personal,Bimbo,40500.0,393,Comercializadora Andina
+PROD-0708,Verduras 11,Verduras,Bimbo,46300.0,266,Alimentos y Bebidas Ltda.
+PROD-0709,Cuidado Personal 10,Cuidado Personal,P&G,47300.0,99,Alimentos y Bebidas Ltda.
+PROD-0710,Carnes 35,Carnes,P&G,2100.0,93,Distribuidora Nacional
+PROD-0711,Frutas 21,Frutas,P&G,41900.0,377,Comercializadora Andina
+PROD-0712,Frutas 4,Frutas,Colanta,20600.0,385,Alimentos y Bebidas Ltda.
+PROD-0713,Bebidas 36,Bebidas,Nestlé,26200.0,312,Distribuidora Nacional
+PROD-0714,Limpieza 16,Limpieza,Coca-Cola,22500.0,453,Supermercados S.A.
+PROD-0715,Dulces 8,Dulces,Colanta,4200.0,332,Importadora Global
+PROD-0716,Frutas 39,Frutas,Familia,22100.0,396,Supermercados S.A.
+PROD-0717,Panadería 16,Panadería,Nestlé,21400.0,129,Alimentos y Bebidas Ltda.
+PROD-0718,Panadería 8,Panadería,P&G,30700.0,498,Importadora Global
+PROD-0719,Lácteos 6,Lácteos,Nestlé,17200.0,445,Importadora Global
+PROD-0720,Abarrotes 35,Abarrotes,Diana,42000.0,25,Distribuidora Nacional
+PROD-0721,Verduras 24,Verduras,Colanta,16600.0,271,Importadora Global
+PROD-0722,Abarrotes 24,Abarrotes,Postobón,47000.0,283,Importadora Global
+PROD-0723,Panadería 12,Panadería,Coca-Cola,8200.0,63,Comercializadora Andina
+PROD-0724,Lácteos 25,Lácteos,Postobón,6400.0,74,Distribuidora Nacional
+PROD-0725,Carnes 45,Carnes,Colanta,9300.0,397,Supermercados S.A.
+PROD-0726,Abarrotes 36,Abarrotes,Alpina,24200.0,483,Alimentos y Bebidas Ltda.
+PROD-0727,Dulces 30,Dulces,Diana,3600.0,446,Comercializadora Andina
+PROD-0728,Carnes 3,Carnes,Coca-Cola,29800.0,320,Supermercados S.A.
+PROD-0729,Lácteos 43,Lácteos,Coca-Cola,2400.0,452,Distribuidora Nacional
+PROD-0730,Bebidas 49,Bebidas,P&G,30200.0,102,Alimentos y Bebidas Ltda.
+PROD-0731,Carnes 33,Carnes,Bimbo,21000.0,369,Importadora Global
+PROD-0732,Carnes 44,Carnes,Nestlé,4900.0,271,Supermercados S.A.
+PROD-0733,Verduras 48,Verduras,Alpina,29900.0,60,Importadora Global
+PROD-0734,Abarrotes 47,Abarrotes,Ramo,25700.0,488,Importadora Global
+PROD-0735,Frutas 32,Frutas,Nestlé,41400.0,98,Distribuidora Nacional
+PROD-0736,Lácteos 24,Lácteos,Postobón,1900.0,467,Supermercados S.A.
+PROD-0737,Dulces 12,Dulces,P&G,12300.0,347,Comercializadora Andina
+PROD-0738,Carnes 20,Carnes,Alpina,34400.0,74,Alimentos y Bebidas Ltda.
+PROD-0739,Lácteos 16,Lácteos,Nestlé,11300.0,292,Distribuidora Nacional
+PROD-0740,Bebidas 2,Bebidas,P&G,27600.0,433,Importadora Global
+PROD-0741,Bebidas 45,Bebidas,Postobón,5500.0,43,Importadora Global
+PROD-0742,Panadería 31,Panadería,Colanta,35900.0,357,Comercializadora Andina
+PROD-0743,Verduras 7,Verduras,Colanta,43700.0,362,Distribuidora Nacional
+PROD-0744,Verduras 30,Verduras,Coca-Cola,16800.0,476,Comercializadora Andina
+PROD-0745,Carnes 46,Carnes,Colanta,36500.0,293,Alimentos y Bebidas Ltda.
+PROD-0746,Dulces 31,Dulces,Diana,20300.0,244,Importadora Global
+PROD-0747,Abarrotes 36,Abarrotes,Alpina,44300.0,305,Comercializadora Andina
+PROD-0748,Dulces 38,Dulces,Postobón,48000.0,167,Comercializadora Andina
+PROD-0749,Abarrotes 25,Abarrotes,P&G,27000.0,465,Importadora Global
+PROD-0750,Limpieza 23,Limpieza,Colanta,15700.0,453,Distribuidora Nacional
+PROD-0751,Lácteos 29,Lácteos,P&G,41000.0,107,Comercializadora Andina
+PROD-0752,Abarrotes 14,Abarrotes,Colanta,47800.0,490,Importadora Global
+PROD-0753,Carnes 45,Carnes,Colanta,28600.0,11,Alimentos y Bebidas Ltda.
+PROD-0754,Carnes 13,Carnes,Alpina,44000.0,403,Alimentos y Bebidas Ltda.
+PROD-0755,Lácteos 24,Lácteos,P&G,30300.0,36,Alimentos y Bebidas Ltda.
+PROD-0756,Panadería 50,Panadería,Ramo,11800.0,383,Supermercados S.A.
+PROD-0757,Carnes 47,Carnes,Postobón,28600.0,443,Distribuidora Nacional
+PROD-0758,Dulces 28,Dulces,Postobón,25400.0,484,Distribuidora Nacional
+PROD-0759,Panadería 37,Panadería,P&G,21300.0,318,Distribuidora Nacional
+PROD-0760,Limpieza 28,Limpieza,Familia,42400.0,265,Distribuidora Nacional
+PROD-0761,Frutas 34,Frutas,Bimbo,16900.0,279,Importadora Global
+PROD-0762,Frutas 16,Frutas,Postobón,19900.0,293,Importadora Global
+PROD-0763,Bebidas 40,Bebidas,Diana,46100.0,110,Distribuidora Nacional
+PROD-0764,Abarrotes 13,Abarrotes,Coca-Cola,15100.0,264,Importadora Global
+PROD-0765,Lácteos 10,Lácteos,Diana,36000.0,118,Supermercados S.A.
+PROD-0766,Bebidas 26,Bebidas,Diana,4200.0,302,Distribuidora Nacional
+PROD-0767,Bebidas 23,Bebidas,Colanta,42100.0,198,Supermercados S.A.
+PROD-0768,Carnes 17,Carnes,Ramo,13200.0,452,Supermercados S.A.
+PROD-0769,Verduras 8,Verduras,Bimbo,30200.0,103,Supermercados S.A.
+PROD-0770,Panadería 1,Panadería,Nestlé,38300.0,336,Comercializadora Andina
+PROD-0771,Bebidas 21,Bebidas,Coca-Cola,22700.0,178,Supermercados S.A.
+PROD-0772,Bebidas 46,Bebidas,Colanta,10800.0,13,Comercializadora Andina
+PROD-0773,Panadería 35,Panadería,Nestlé,5600.0,264,Comercializadora Andina
+PROD-0774,Carnes 2,Carnes,Ramo,40800.0,43,Alimentos y Bebidas Ltda.
+PROD-0775,Frutas 10,Frutas,Diana,38500.0,13,Distribuidora Nacional
+PROD-0776,Lácteos 46,Lácteos,Alpina,25100.0,357,Supermercados S.A.
+PROD-0777,Panadería 12,Panadería,Alpina,23600.0,267,Alimentos y Bebidas Ltda.
+PROD-0778,Dulces 36,Dulces,Postobón,15500.0,293,Alimentos y Bebidas Ltda.
+PROD-0779,Limpieza 15,Limpieza,Postobón,48300.0,330,Distribuidora Nacional
+PROD-0780,Bebidas 24,Bebidas,Coca-Cola,13600.0,143,Importadora Global
+PROD-0781,Carnes 35,Carnes,Bimbo,14000.0,349,Supermercados S.A.
+PROD-0782,Abarrotes 8,Abarrotes,Bimbo,23300.0,286,Supermercados S.A.
+PROD-0783,Verduras 24,Verduras,Coca-Cola,34500.0,270,Comercializadora Andina
+PROD-0784,Carnes 13,Carnes,P&G,28300.0,158,Supermercados S.A.
+PROD-0785,Carnes 14,Carnes,Colanta,11300.0,167,Importadora Global
+PROD-0786,Dulces 46,Dulces,Colanta,12700.0,176,Importadora Global
+PROD-0787,Limpieza 47,Limpieza,Coca-Cola,11700.0,483,Importadora Global
+PROD-0788,Limpieza 37,Limpieza,Familia,32900.0,203,Importadora Global
+PROD-0789,Dulces 16,Dulces,Alpina,4100.0,204,Supermercados S.A.
+PROD-0790,Cuidado Personal 21,Cuidado Personal,Colanta,12800.0,13,Supermercados S.A.
+PROD-0791,Cuidado Personal 8,Cuidado Personal,Colanta,31000.0,72,Alimentos y Bebidas Ltda.
+PROD-0792,Frutas 22,Frutas,Alpina,48500.0,352,Supermercados S.A.
+PROD-0793,Lácteos 22,Lácteos,Bimbo,35700.0,129,Importadora Global
+PROD-0794,Panadería 11,Panadería,Colanta,38300.0,70,Importadora Global
+PROD-0795,Panadería 24,Panadería,Nestlé,24800.0,449,Supermercados S.A.
+PROD-0796,Carnes 18,Carnes,Coca-Cola,40900.0,235,Comercializadora Andina
+PROD-0797,Lácteos 28,Lácteos,Nestlé,33600.0,231,Distribuidora Nacional
+PROD-0798,Frutas 37,Frutas,Nestlé,24700.0,96,Alimentos y Bebidas Ltda.
+PROD-0799,Abarrotes 50,Abarrotes,Nestlé,7800.0,278,Importadora Global
+PROD-0800,Abarrotes 26,Abarrotes,Diana,37200.0,305,Distribuidora Nacional
+PROD-0801,Carnes 8,Carnes,Familia,47500.0,163,Comercializadora Andina
+PROD-0802,Carnes 5,Carnes,Colanta,2000.0,138,Importadora Global
+PROD-0803,Frutas 16,Frutas,Diana,38100.0,97,Importadora Global
+PROD-0804,Panadería 37,Panadería,P&G,23100.0,160,Importadora Global
+PROD-0805,Abarrotes 23,Abarrotes,Coca-Cola,17300.0,241,Distribuidora Nacional
+PROD-0806,Limpieza 16,Limpieza,Ramo,10800.0,107,Importadora Global
+PROD-0807,Dulces 37,Dulces,Bimbo,34500.0,91,Comercializadora Andina
+PROD-0808,Frutas 17,Frutas,Ramo,22400.0,424,Distribuidora Nacional
+PROD-0809,Carnes 48,Carnes,Colanta,10300.0,230,Comercializadora Andina
+PROD-0810,Limpieza 20,Limpieza,Postobón,37000.0,317,Comercializadora Andina
+PROD-0811,Limpieza 12,Limpieza,Familia,30900.0,165,Supermercados S.A.
+PROD-0812,Limpieza 48,Limpieza,Ramo,44400.0,84,Alimentos y Bebidas Ltda.
+PROD-0813,Abarrotes 2,Abarrotes,Bimbo,20600.0,206,Distribuidora Nacional
+PROD-0814,Bebidas 30,Bebidas,Postobón,47300.0,231,Supermercados S.A.
+PROD-0815,Lácteos 17,Lácteos,Colanta,17100.0,195,Importadora Global
+PROD-0816,Limpieza 48,Limpieza,Alpina,9900.0,463,Importadora Global
+PROD-0817,Lácteos 31,Lácteos,Postobón,12700.0,59,Distribuidora Nacional
+PROD-0818,Lácteos 5,Lácteos,Colanta,36100.0,259,Importadora Global
+PROD-0819,Bebidas 44,Bebidas,Ramo,26600.0,324,Importadora Global
+PROD-0820,Limpieza 22,Limpieza,Colanta,25800.0,174,Supermercados S.A.
+PROD-0821,Limpieza 4,Limpieza,Colanta,48500.0,172,Supermercados S.A.
+PROD-0822,Cuidado Personal 3,Cuidado Personal,Alpina,18600.0,102,Comercializadora Andina
+PROD-0823,Frutas 34,Frutas,Ramo,48800.0,458,Supermercados S.A.
+PROD-0824,Limpieza 21,Limpieza,Bimbo,7200.0,496,Comercializadora Andina
+PROD-0825,Frutas 15,Frutas,Nestlé,15400.0,73,Supermercados S.A.
+PROD-0826,Lácteos 14,Lácteos,Bimbo,41400.0,153,Alimentos y Bebidas Ltda.
+PROD-0827,Limpieza 7,Limpieza,Familia,20400.0,7,Distribuidora Nacional
+PROD-0828,Carnes 30,Carnes,Bimbo,39900.0,69,Supermercados S.A.
+PROD-0829,Cuidado Personal 46,Cuidado Personal,Familia,37800.0,149,Importadora Global
+PROD-0830,Cuidado Personal 30,Cuidado Personal,Coca-Cola,20700.0,301,Supermercados S.A.
+PROD-0831,Bebidas 25,Bebidas,Familia,6200.0,65,Comercializadora Andina
+PROD-0832,Dulces 49,Dulces,Postobón,36600.0,386,Comercializadora Andina
+PROD-0833,Abarrotes 40,Abarrotes,Colanta,49300.0,402,Comercializadora Andina
+PROD-0834,Bebidas 24,Bebidas,Diana,47000.0,377,Supermercados S.A.
+PROD-0835,Abarrotes 22,Abarrotes,Ramo,28800.0,439,Supermercados S.A.
+PROD-0836,Cuidado Personal 22,Cuidado Personal,Nestlé,13800.0,373,Supermercados S.A.
+PROD-0837,Limpieza 45,Limpieza,Familia,34200.0,246,Comercializadora Andina
+PROD-0838,Verduras 15,Verduras,Nestlé,18200.0,61,Distribuidora Nacional
+PROD-0839,Cuidado Personal 47,Cuidado Personal,P&G,46600.0,83,Alimentos y Bebidas Ltda.
+PROD-0840,Abarrotes 30,Abarrotes,Familia,24700.0,344,Importadora Global
+PROD-0841,Carnes 38,Carnes,Nestlé,33300.0,247,Distribuidora Nacional
+PROD-0842,Carnes 33,Carnes,Colanta,44000.0,363,Alimentos y Bebidas Ltda.
+PROD-0843,Carnes 18,Carnes,Familia,41200.0,42,Alimentos y Bebidas Ltda.
+PROD-0844,Carnes 29,Carnes,Diana,30600.0,123,Distribuidora Nacional
+PROD-0845,Lácteos 39,Lácteos,Ramo,16900.0,194,Importadora Global
+PROD-0846,Verduras 12,Verduras,Postobón,23300.0,173,Alimentos y Bebidas Ltda.
+PROD-0847,Verduras 2,Verduras,Ramo,48000.0,51,Supermercados S.A.
+PROD-0848,Cuidado Personal 19,Cuidado Personal,Familia,21200.0,250,Supermercados S.A.
+PROD-0849,Panadería 41,Panadería,Familia,36200.0,151,Importadora Global
+PROD-0850,Bebidas 29,Bebidas,Postobón,37400.0,408,Comercializadora Andina
+PROD-0851,Frutas 4,Frutas,Diana,6400.0,90,Supermercados S.A.
+PROD-0852,Lácteos 38,Lácteos,Nestlé,40200.0,215,Comercializadora Andina
+PROD-0853,Cuidado Personal 24,Cuidado Personal,Diana,14800.0,79,Distribuidora Nacional
+PROD-0854,Dulces 37,Dulces,P&G,48900.0,491,Distribuidora Nacional
+PROD-0855,Abarrotes 43,Abarrotes,Coca-Cola,38600.0,173,Comercializadora Andina
+PROD-0856,Abarrotes 25,Abarrotes,Bimbo,27600.0,200,Alimentos y Bebidas Ltda.
+PROD-0857,Lácteos 34,Lácteos,Postobón,15800.0,36,Importadora Global
+PROD-0858,Cuidado Personal 22,Cuidado Personal,Bimbo,6000.0,493,Importadora Global
+PROD-0859,Abarrotes 1,Abarrotes,Postobón,39300.0,82,Alimentos y Bebidas Ltda.
+PROD-0860,Limpieza 19,Limpieza,Nestlé,36200.0,500,Alimentos y Bebidas Ltda.
+PROD-0861,Verduras 9,Verduras,Diana,8600.0,41,Importadora Global
+PROD-0862,Bebidas 14,Bebidas,Nestlé,28200.0,251,Comercializadora Andina
+PROD-0863,Dulces 25,Dulces,Coca-Cola,46400.0,298,Comercializadora Andina
+PROD-0864,Verduras 26,Verduras,Ramo,25100.0,260,Importadora Global
+PROD-0865,Frutas 22,Frutas,Alpina,26000.0,312,Comercializadora Andina
+PROD-0866,Frutas 26,Frutas,Coca-Cola,46600.0,247,Supermercados S.A.
+PROD-0867,Dulces 25,Dulces,Postobón,13300.0,262,Distribuidora Nacional
+PROD-0868,Abarrotes 36,Abarrotes,Diana,47700.0,339,Distribuidora Nacional
+PROD-0869,Abarrotes 22,Abarrotes,Nestlé,19100.0,364,Comercializadora Andina
+PROD-0870,Bebidas 41,Bebidas,Coca-Cola,45300.0,306,Comercializadora Andina
+PROD-0871,Dulces 23,Dulces,P&G,34200.0,394,Distribuidora Nacional
+PROD-0872,Limpieza 3,Limpieza,Familia,45000.0,328,Comercializadora Andina
+PROD-0873,Limpieza 26,Limpieza,Diana,49600.0,25,Distribuidora Nacional
+PROD-0874,Panadería 30,Panadería,Nestlé,18400.0,446,Alimentos y Bebidas Ltda.
+PROD-0875,Panadería 50,Panadería,Coca-Cola,4800.0,317,Alimentos y Bebidas Ltda.
+PROD-0876,Bebidas 7,Bebidas,Nestlé,42900.0,366,Distribuidora Nacional
+PROD-0877,Dulces 6,Dulces,Alpina,22900.0,405,Supermercados S.A.
+PROD-0878,Panadería 39,Panadería,Postobón,32600.0,109,Comercializadora Andina
+PROD-0879,Dulces 1,Dulces,Ramo,38400.0,172,Supermercados S.A.
+PROD-0880,Cuidado Personal 24,Cuidado Personal,Nestlé,31800.0,365,Importadora Global
+PROD-0881,Limpieza 29,Limpieza,Bimbo,32700.0,399,Distribuidora Nacional
+PROD-0882,Bebidas 43,Bebidas,Bimbo,49300.0,88,Alimentos y Bebidas Ltda.
+PROD-0883,Abarrotes 44,Abarrotes,Alpina,8800.0,164,Distribuidora Nacional
+PROD-0884,Limpieza 42,Limpieza,Bimbo,4700.0,50,Comercializadora Andina
+PROD-0885,Dulces 45,Dulces,Alpina,43800.0,338,Importadora Global
+PROD-0886,Cuidado Personal 22,Cuidado Personal,Colanta,46600.0,371,Distribuidora Nacional
+PROD-0887,Cuidado Personal 43,Cuidado Personal,Familia,24800.0,39,Distribuidora Nacional
+PROD-0888,Bebidas 32,Bebidas,Nestlé,12000.0,302,Supermercados S.A.
+PROD-0889,Cuidado Personal 42,Cuidado Personal,Ramo,5500.0,457,Distribuidora Nacional
+PROD-0890,Verduras 19,Verduras,Familia,34500.0,370,Importadora Global
+PROD-0891,Lácteos 10,Lácteos,Ramo,4600.0,335,Distribuidora Nacional
+PROD-0892,Lácteos 34,Lácteos,Diana,39000.0,40,Supermercados S.A.
+PROD-0893,Panadería 49,Panadería,Diana,34600.0,92,Alimentos y Bebidas Ltda.
+PROD-0894,Limpieza 32,Limpieza,Ramo,29600.0,211,Distribuidora Nacional
+PROD-0895,Verduras 22,Verduras,P&G,39700.0,486,Importadora Global
+PROD-0896,Lácteos 44,Lácteos,Nestlé,12200.0,238,Comercializadora Andina
+PROD-0897,Limpieza 7,Limpieza,Coca-Cola,10000.0,141,Alimentos y Bebidas Ltda.
+PROD-0898,Abarrotes 3,Abarrotes,Ramo,34200.0,274,Comercializadora Andina
+PROD-0899,Abarrotes 28,Abarrotes,Coca-Cola,10900.0,41,Comercializadora Andina
+PROD-0900,Bebidas 20,Bebidas,P&G,27300.0,171,Distribuidora Nacional
+PROD-0901,Carnes 32,Carnes,Diana,41300.0,14,Alimentos y Bebidas Ltda.
+PROD-0902,Cuidado Personal 42,Cuidado Personal,Diana,3900.0,34,Alimentos y Bebidas Ltda.
+PROD-0903,Panadería 18,Panadería,Postobón,25800.0,456,Supermercados S.A.
+PROD-0904,Limpieza 47,Limpieza,Nestlé,3600.0,410,Comercializadora Andina
+PROD-0905,Panadería 1,Panadería,P&G,48500.0,31,Supermercados S.A.
+PROD-0906,Lácteos 49,Lácteos,Postobón,20400.0,475,Importadora Global
+PROD-0907,Panadería 9,Panadería,Bimbo,37700.0,403,Importadora Global
+PROD-0908,Bebidas 22,Bebidas,Colanta,29700.0,410,Supermercados S.A.
+PROD-0909,Abarrotes 25,Abarrotes,P&G,35900.0,65,Supermercados S.A.
+PROD-0910,Carnes 11,Carnes,Postobón,35400.0,170,Importadora Global
+PROD-0911,Abarrotes 16,Abarrotes,Alpina,46100.0,143,Alimentos y Bebidas Ltda.
+PROD-0912,Verduras 32,Verduras,Familia,33500.0,276,Comercializadora Andina
+PROD-0913,Verduras 25,Verduras,Colanta,39200.0,195,Comercializadora Andina
+PROD-0914,Frutas 6,Frutas,Familia,5900.0,50,Distribuidora Nacional
+PROD-0915,Limpieza 35,Limpieza,Postobón,8500.0,140,Distribuidora Nacional
+PROD-0916,Frutas 41,Frutas,Familia,33400.0,450,Comercializadora Andina
+PROD-0917,Carnes 13,Carnes,Alpina,11500.0,386,Importadora Global
+PROD-0918,Abarrotes 2,Abarrotes,Familia,21000.0,24,Alimentos y Bebidas Ltda.
+PROD-0919,Dulces 35,Dulces,Nestlé,47500.0,343,Importadora Global
+PROD-0920,Dulces 8,Dulces,Coca-Cola,28100.0,274,Distribuidora Nacional
+PROD-0921,Lácteos 31,Lácteos,Diana,49400.0,153,Supermercados S.A.
+PROD-0922,Verduras 7,Verduras,Postobón,9400.0,41,Distribuidora Nacional
+PROD-0923,Dulces 41,Dulces,Colanta,39000.0,268,Distribuidora Nacional
+PROD-0924,Limpieza 35,Limpieza,Colanta,22300.0,313,Comercializadora Andina
+PROD-0925,Frutas 26,Frutas,Coca-Cola,17000.0,465,Distribuidora Nacional
+PROD-0926,Cuidado Personal 41,Cuidado Personal,Colanta,29300.0,122,Alimentos y Bebidas Ltda.
+PROD-0927,Dulces 22,Dulces,Ramo,35100.0,154,Importadora Global
+PROD-0928,Verduras 34,Verduras,Diana,38900.0,467,Comercializadora Andina
+PROD-0929,Dulces 2,Dulces,Familia,47000.0,117,Comercializadora Andina
+PROD-0930,Panadería 33,Panadería,Ramo,14900.0,143,Distribuidora Nacional
+PROD-0931,Cuidado Personal 7,Cuidado Personal,Coca-Cola,41000.0,237,Alimentos y Bebidas Ltda.
+PROD-0932,Carnes 39,Carnes,Coca-Cola,33500.0,200,Supermercados S.A.
+PROD-0933,Verduras 26,Verduras,Postobón,9000.0,362,Distribuidora Nacional
+PROD-0934,Carnes 33,Carnes,Coca-Cola,4000.0,98,Distribuidora Nacional
+PROD-0935,Verduras 16,Verduras,Familia,17400.0,320,Supermercados S.A.
+PROD-0936,Bebidas 34,Bebidas,Familia,35800.0,175,Alimentos y Bebidas Ltda.
+PROD-0937,Abarrotes 44,Abarrotes,P&G,28400.0,37,Importadora Global
+PROD-0938,Panadería 44,Panadería,Colanta,4700.0,59,Supermercados S.A.
+PROD-0939,Bebidas 3,Bebidas,Nestlé,48000.0,362,Supermercados S.A.
+PROD-0940,Frutas 47,Frutas,Familia,18200.0,294,Supermercados S.A.
+PROD-0941,Frutas 18,Frutas,Familia,36500.0,376,Comercializadora Andina
+PROD-0942,Lácteos 8,Lácteos,Colanta,44800.0,141,Distribuidora Nacional
+PROD-0943,Lácteos 47,Lácteos,Coca-Cola,4400.0,433,Comercializadora Andina
+PROD-0944,Cuidado Personal 1,Cuidado Personal,Bimbo,15700.0,308,Comercializadora Andina
+PROD-0945,Lácteos 13,Lácteos,Coca-Cola,34000.0,311,Supermercados S.A.
+PROD-0946,Verduras 8,Verduras,Alpina,11400.0,139,Comercializadora Andina
+PROD-0947,Verduras 50,Verduras,Colanta,18800.0,496,Supermercados S.A.
+PROD-0948,Verduras 41,Verduras,Familia,21900.0,338,Distribuidora Nacional
+PROD-0949,Lácteos 49,Lácteos,Bimbo,20900.0,118,Comercializadora Andina
+PROD-0950,Frutas 39,Frutas,Alpina,10100.0,384,Comercializadora Andina
+PROD-0951,Cuidado Personal 2,Cuidado Personal,Bimbo,29300.0,191,Alimentos y Bebidas Ltda.
+PROD-0952,Dulces 16,Dulces,Nestlé,34900.0,417,Distribuidora Nacional
+PROD-0953,Panadería 50,Panadería,Nestlé,33000.0,406,Distribuidora Nacional
+PROD-0954,Bebidas 42,Bebidas,P&G,4200.0,164,Importadora Global
+PROD-0955,Limpieza 27,Limpieza,Coca-Cola,48700.0,243,Alimentos y Bebidas Ltda.
+PROD-0956,Carnes 24,Carnes,Postobón,28000.0,304,Alimentos y Bebidas Ltda.
+PROD-0957,Panadería 11,Panadería,Colanta,9500.0,423,Distribuidora Nacional
+PROD-0958,Verduras 33,Verduras,P&G,7600.0,145,Distribuidora Nacional
+PROD-0959,Abarrotes 39,Abarrotes,Bimbo,47100.0,431,Distribuidora Nacional
+PROD-0960,Panadería 29,Panadería,Nestlé,30100.0,444,Importadora Global
+PROD-0961,Panadería 44,Panadería,Nestlé,7400.0,264,Comercializadora Andina
+PROD-0962,Cuidado Personal 13,Cuidado Personal,Colanta,23200.0,365,Distribuidora Nacional
+PROD-0963,Lácteos 25,Lácteos,Bimbo,31800.0,26,Alimentos y Bebidas Ltda.
+PROD-0964,Dulces 49,Dulces,P&G,41600.0,239,Comercializadora Andina
+PROD-0965,Carnes 17,Carnes,Coca-Cola,2200.0,461,Comercializadora Andina
+PROD-0966,Abarrotes 5,Abarrotes,Familia,30200.0,412,Distribuidora Nacional
+PROD-0967,Cuidado Personal 12,Cuidado Personal,P&G,46700.0,181,Distribuidora Nacional
+PROD-0968,Lácteos 39,Lácteos,Colanta,5400.0,341,Comercializadora Andina
+PROD-0969,Lácteos 48,Lácteos,Diana,46200.0,324,Distribuidora Nacional
+PROD-0970,Carnes 41,Carnes,Bimbo,49700.0,206,Importadora Global
+PROD-0971,Carnes 19,Carnes,Nestlé,3000.0,387,Distribuidora Nacional
+PROD-0972,Frutas 17,Frutas,Bimbo,43700.0,257,Importadora Global
+PROD-0973,Verduras 12,Verduras,Diana,48700.0,196,Alimentos y Bebidas Ltda.
+PROD-0974,Abarrotes 38,Abarrotes,Familia,30400.0,36,Alimentos y Bebidas Ltda.
+PROD-0975,Limpieza 45,Limpieza,Colanta,1900.0,404,Comercializadora Andina
+PROD-0976,Dulces 29,Dulces,Diana,24300.0,346,Comercializadora Andina
+PROD-0977,Frutas 14,Frutas,Ramo,29800.0,317,Alimentos y Bebidas Ltda.
+PROD-0978,Panadería 35,Panadería,Familia,36200.0,378,Distribuidora Nacional
+PROD-0979,Bebidas 28,Bebidas,Familia,18900.0,300,Distribuidora Nacional
+PROD-0980,Verduras 41,Verduras,Colanta,10500.0,397,Supermercados S.A.
+PROD-0981,Cuidado Personal 27,Cuidado Personal,Alpina,9300.0,254,Distribuidora Nacional
+PROD-0982,Cuidado Personal 9,Cuidado Personal,Diana,49100.0,158,Importadora Global
+PROD-0983,Carnes 43,Carnes,Alpina,26800.0,415,Distribuidora Nacional
+PROD-0984,Limpieza 12,Limpieza,Postobón,40900.0,35,Alimentos y Bebidas Ltda.
+PROD-0985,Frutas 35,Frutas,P&G,2300.0,451,Supermercados S.A.
+PROD-0986,Abarrotes 44,Abarrotes,Postobón,8600.0,220,Distribuidora Nacional
+PROD-0987,Carnes 48,Carnes,Nestlé,28400.0,288,Importadora Global
+PROD-0988,Abarrotes 50,Abarrotes,Bimbo,11900.0,366,Supermercados S.A.
+PROD-0989,Verduras 41,Verduras,Diana,42000.0,112,Distribuidora Nacional
+PROD-0990,Limpieza 15,Limpieza,Coca-Cola,2300.0,261,Importadora Global
+PROD-0991,Frutas 40,Frutas,Alpina,31300.0,461,Comercializadora Andina
+PROD-0992,Limpieza 11,Limpieza,P&G,14700.0,236,Comercializadora Andina
+PROD-0993,Carnes 28,Carnes,Bimbo,23000.0,256,Comercializadora Andina
+PROD-0994,Limpieza 47,Limpieza,Diana,8900.0,83,Comercializadora Andina
+PROD-0995,Abarrotes 46,Abarrotes,Alpina,3200.0,90,Supermercados S.A.
+PROD-0996,Verduras 3,Verduras,Alpina,29900.0,295,Alimentos y Bebidas Ltda.
+PROD-0997,Verduras 16,Verduras,Colanta,30900.0,138,Comercializadora Andina
+PROD-0998,Carnes 32,Carnes,Nestlé,37200.0,301,Comercializadora Andina
+PROD-0999,Abarrotes 30,Abarrotes,P&G,19800.0,361,Distribuidora Nacional
+PROD-1000,Bebidas 34,Bebidas,Bimbo,13400.0,66,Alimentos y Bebidas Ltda.
